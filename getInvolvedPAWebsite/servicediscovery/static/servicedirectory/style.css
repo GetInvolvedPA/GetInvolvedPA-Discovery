@@ -1,0 +1,12 @@
+#page-wrap {
+  width: 800px;
+  margin: 10 auto;
+  background-color: #FFFFFF;
+  text-align: center;
+}
+
+#header {
+  height: 83px;
+  width: 100%;
+  text-align: center;
+}
