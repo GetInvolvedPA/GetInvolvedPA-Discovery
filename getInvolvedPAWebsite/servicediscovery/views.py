@@ -12,3 +12,9 @@ def index(request):
 	context = RequestContext(request)
 	return HttpResponse(template.render(context))
 
+def log_hours(request):
+	pass
+
+def search_hours(request):
+	pass
+
