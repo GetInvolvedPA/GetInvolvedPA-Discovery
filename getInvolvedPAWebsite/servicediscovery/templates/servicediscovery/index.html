@@ -1,1 +1,45 @@
-Hi!
+{% load staticfiles %}
+
+<link rel="stylesheet" type="text/css" href="{% static 'servicediscovery/style.css' %}" />
+
+<html>
+
+<head>
+
+  <title>GetInvolvedPA</title>
+
+</head>
+
+<body>
+
+  <div id="page-wrap">
+
+    <div id="header">
+      <h1>Paly Service Learning Database</h1>
+    </div>
+    <div id="subtitle">
+      <h2>I want to make an impact on my community by working on...</h2>
+    </div>
+
+    <h3>Search the community service database!</h3>
+
+    <div id="dropdown-menu">
+      <select>
+
+        <option value="Search option 1">Search Option 1</option>
+        <option value="Search option 2">Search Option 2</option>
+
+      </select>
+    </div>
+
+    <div id="searchbar">
+      <form id="dbsearch">
+        <input type="text" name="searchquery">
+      </form>
+    </div>
+
+  </div>
+
+</body>
+
+</html>
