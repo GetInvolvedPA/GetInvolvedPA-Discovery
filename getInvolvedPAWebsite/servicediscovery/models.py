@@ -5,13 +5,18 @@ class Student(models.Model):
 	last_name = models.TextField()
 	year_graduation = models.IntegerField()
 
+	def __str__(self):
+		return self.first_name+" "+self.last_name
+
 class Service_Classification(models.Model):
 	class_name = models.TextField()
 
+	def __str__(str):
+		return self.class_name
+
 class Service(models.Model):
-	service_id = models.IntegerField()
-	service_class_id = models.ForeignKey(Service_Classification)
-	serviceName=models.TextField()
+	service_classification = models.ForeignKey(Service_Classification)
+	service_name=models.TextField()
 	agency = models.TextField()
 	street = models.TextField()
 	city = models.TextField()
@@ -25,10 +30,8 @@ class Service(models.Model):
 	contact_address = models.TextField()
 
 class Service_Activiy(models.Model):
-	activiy_id = models.IntegerField()
-	service_id = models.ForeignKey(Service)
+	service = models.ForeignKey(Service)
 	student = models.ForeignKey(Student)
-
 	start_time = models.DateTimeField()
 	end_time = models.DateTimeField()
 	hours = models.IntegerField
