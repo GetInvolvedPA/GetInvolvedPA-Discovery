@@ -49,11 +49,8 @@ def log_hours_form(request):
 def log_hours(request):
     pass
 
-
-
 def search_hours(request):
     pass
-
 
 def search_hours(request):
     classification = Service_Classification.objects.get(id=request.POST["id"])
