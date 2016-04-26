@@ -11,7 +11,7 @@ class Student(models.Model):
 class Service_Classification(models.Model):
 	class_name = models.TextField()
 
-	def __str__(str):
+	def __str__(self):
 		return self.class_name
 
 class Service(models.Model):

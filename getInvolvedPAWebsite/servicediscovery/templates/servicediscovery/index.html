@@ -7,8 +7,14 @@
 <head>
 
   <title>GetInvolvedPA</title>
+  <script type="text/javascript">
+      {% for service in Services %}
 
-</head>
+      {% endfor %}
+      function onChange () {
+      }
+  </script>
+</head> 
 
 <body>
 
@@ -24,11 +30,11 @@
     <h3>Search the community service database!</h3>
 
     <div id="dropdown-menu">
-      <select>
+      <select onchange="onChange();">
 
-        <option value="Search option 1">Search Option 1</option>
-        <option value="Search option 2">Search Option 2</option>
-
+        {% for option in ServicesClasses %}
+        <option value="{{option.1}}">{{option.0}}</option>
+        {% endfor %}
       </select>
     </div>
 
