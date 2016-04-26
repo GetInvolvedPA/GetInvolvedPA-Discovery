@@ -1,6 +1,6 @@
 {% load staticfiles %}
 
-<link rel="stylesheet" type="text/css" href="{% static 'servicediscovery/style.css' %}" />
+<!-- <link rel="stylesheet" type="text/css" href="{% static 'servicediscovery/style.css' %}" /> -->
 
 <html>
 
@@ -8,10 +8,31 @@
 
   <title>GetInvolvedPA</title>
   <script type="text/javascript">
-      {% for service in Services %}
+      var services = [];
 
+      {% for service in Services %}
+      services.push(["{{service.0}}", {{service.1}}, {{service.2}}]);
       {% endfor %}
-      function onChange () {
+      function onChange() {
+        console.error("onChange Called");
+        var serviceClassSelect = document.getElementById("serviceClassSelect");
+
+        var selectedClass = serviceClassSelect.options[serviceClassSelect.selectedIndex].value;
+
+        var servicesSelect = document.getElementById('servicesSelect');
+
+        var correctServices = [];
+        
+        for (var i = 0; i < services.length; i++) {
+
+          if (services[i][2] == selectedClass) {
+            var option = document.createElement("option");
+            option.text = services[i][0];
+            option.value = services[i][1];
+            servicesSelect.add(option);
+            console.error("Added + " + option);
+          }
+        }
       }
   </script>
 </head> 
@@ -30,11 +51,14 @@
     <h3>Search the community service database!</h3>
 
     <div id="dropdown-menu">
-      <select onchange="onChange();">
+      <select onchange="onChange()" id = "serviceClassSelect">
 
         {% for option in ServicesClasses %}
         <option value="{{option.1}}">{{option.0}}</option>
         {% endfor %}
+      </select>
+
+      <select id = "servicesSelect">
       </select>
     </div>
 

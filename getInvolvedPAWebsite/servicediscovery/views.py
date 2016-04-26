@@ -20,7 +20,9 @@ def get_data_for_service(services):
     for service in services:
         data.append(
             (
-                service.service_name, 
+                service.service_name,
+                service.id, 
+                service.service_classification.id,
                 service.agency, 
                 service.street, 
                 service.city, 
@@ -31,8 +33,7 @@ def get_data_for_service(services):
                 service.contact_phone,
                 service.contact_name,
                 service.contact_email,
-                service.contact_address,
-                service.Service_Classification            
+                service.contact_address
             )
         ) 
     return data    
@@ -40,7 +41,7 @@ def get_data_for_service(services):
 def index(request):
     template = loader.get_template('servicediscovery/index.html')
     context = RequestContext(request)
-    return render(request, "servicediscovery/index.html", {"ServicesClass": get_data_for_service_class(Service_Classification.objects.all())})
+    return render(request, "servicediscovery/index.html", {"ServicesClasses": get_data_for_service_class(Service_Classification.objects.all()), "Services": get_data_for_service(Service.objects.all())})
 
 def log_hours_form(request):
     return render(request, "servicediscovery/log_hours.html")
