@@ -98,3 +98,7 @@ def new_service_activity(request):
         contact=request.POST["contact"],
         submitdate=timezone.now(),
     ).save()
+
+def viewServiceInfo(request, serviceId):
+    return HttpResponse("You're looking at services %s." % Service.objects.get(id=serviceId).service_name)
+

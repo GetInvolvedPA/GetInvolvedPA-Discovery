@@ -34,6 +34,14 @@
           }
         }
       }
+
+      function goToServicePage() {
+        var selectedService = document.getElementById("servicesSelect");
+
+        var selected = selectedService.options[selectedService.selectedIndex].value;
+
+        window.location = "/services/" + selected;
+      }
   </script>
 </head> 
 
@@ -50,6 +58,10 @@
 
     <h3>Search the community service database!</h3>
 
+    <form id="dbsearch">
+          <input type="text" name="searchquery">
+        </form>
+
     <div id="dropdown-menu">
       <select onchange="onChange()" id = "serviceClassSelect">
 
@@ -62,11 +74,9 @@
       </select>
     </div>
 
-    <div id="searchbar">
-      <form id="dbsearch">
-        <input type="text" name="searchquery">
-      </form>
-    </div>
+    <button onclick="goToServicePage()"> Go to the service</button>
+
+
 
   </div>
 
