@@ -67,7 +67,7 @@
 
     <div id="dropdown-menu">
       <select onchange="onChange()" id = "serviceClassSelect">
-
+		  <option>(choose a classification)</option>
         {% for option in ServicesClasses %}
         <option value="{{option.1}}">{{option.0}}</option>
         {% endfor %}
