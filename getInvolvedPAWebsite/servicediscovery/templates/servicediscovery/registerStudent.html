@@ -1,0 +1,16 @@
+<html>
+	<HEAD>
+		<title>
+			Register a student
+		</title>
+	</HEAD>
+
+	<body>
+
+		{{errMsg}}
+		<form target="{% url 'registerStudent' %}" method="post">
+			First Name:<input type="text" name="first_name">
+			Last Name:<input type="text"name = "last_name">
+			Year_graduation <input type="number"name = "year_graduation">
+		</form>
+	</body>
