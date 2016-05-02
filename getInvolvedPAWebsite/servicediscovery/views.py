@@ -1,4 +1,4 @@
-#!/usr/bin/python
+ #!/usr/bin/python
 #
 # Views.py
 # get involvedPA
@@ -100,5 +100,5 @@ def new_service_activity(request):
     ).save()
 
 def viewServiceInfo(request, serviceId):
-    return HttpResponse("You're looking at services %s." % Service.objects.get(id=serviceId).service_name)
-
+    service = Service.objects.get(id=serviceId)
+    return render(request, "servicediscovery/serviceInfo.html", {"service" : get_data_for_service([service])})

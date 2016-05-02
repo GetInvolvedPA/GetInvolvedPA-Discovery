@@ -19,9 +19,12 @@
 
         var selectedClass = serviceClassSelect.options[serviceClassSelect.selectedIndex].value;
 
-        var servicesSelect = document.getElementById('servicesSelect');
+	var servicesSelect = document.getElementById('servicesSelect');
 
-        var correctServices = [];
+	for (i =0; i<servicesSelect.options.length; i++) {
+        	servicesSelect.options[i] = null;
+	}
+	var correctServices = [];
         
         for (var i = 0; i < services.length; i++) {
 
