@@ -15,17 +15,17 @@ def get_data_for_service_class(all_objects):
         data.append((classification.class_name, classification.id))
     return data
 
-def get_data_for_service(services):   
+def get_data_for_service(services):
     data = []
     for service in services:
         data.append(
             (
                 service.service_name,
-                service.id, 
+                service.id,
                 service.service_classification.id,
-                service.agency, 
-                service.street, 
-                service.city, 
+                service.agency,
+                service.street,
+                service.city,
                 service.state,
                 service.zipcode,
                 service.country,
@@ -35,8 +35,8 @@ def get_data_for_service(services):
                 service.contact_email,
                 service.contact_address
             )
-        ) 
-    return data    
+        )
+    return data
 
 def index(request):
     template = loader.get_template('servicediscovery/index.html')
@@ -101,4 +101,5 @@ def new_service_activity(request):
 
 def viewServiceInfo(request, serviceId):
     service = Service.objects.get(id=serviceId)
-    return render(request, "servicediscovery/serviceInfo.html", {"service" : get_data_for_service([service])})
+    return render(request, "servicediscovery/serviceInfo.html", {"service" :
+                                                                 get_data_for_service([service])[0]})
