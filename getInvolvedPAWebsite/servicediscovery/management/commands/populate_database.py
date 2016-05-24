@@ -26,9 +26,10 @@ class Command(BaseCommand):
 
     def handle(self, *args, **options):
         # now do the things that you want with your models here
+        current_services = [i.class_name for i in Service_Classification.objects.all()]
         for service_classification in service_classifications:
-            # TODO: avoid adding duplicates!
-            s = Service_Classification(class_name=service_classification)
-            s.save()
+            if service_classification not in current_services:
+                s = Service_Classification(class_name=service_classification)
+                s.save()
 
 
