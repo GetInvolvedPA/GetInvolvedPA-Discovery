@@ -1,88 +1,89 @@
 {% load staticfiles %}
 
-<link rel="stylesheet" type="text/css" href="{% static 'servicediscovery/style.css' %}" />
+<!-- <link rel="stylesheet" type="text/css" href="{% static 'servicediscovery/style.css' %}" /> -->
 
 <html>
 
-	<head>
-		<style>
-.dropbtn {
-	background-color: #4CAF50;
-	color: white;
-	padding: 16px;
-	font-size: 16px;
-	border: none;
-	cursor: pointer;
-}
+<head>
 
-.dropdown {
-	position: relative;
-	display: inline-block;
-}
+  <title>GetInvolvedPA</title>
+  <script type="text/javascript">
+      var services = [];
 
-.dropdown-content {
-	display: none;
-	position: absolute;
-	background-color: #f9f9f9;
-	min-width: 160px;
-	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-}
+      {% for service in Services %}
+      services.push(["{{service.0}}", {{service.1}}, {{service.2}}]);
+      {% endfor %}
+      function onChange() {
+        console.error("onChange Called");
+        var serviceClassSelect = document.getElementById("serviceClassSelect");
 
-.dropdown-content a {
-	color: black;
-	padding: 12px 16px;
-	text-decoration: none;
-	display: block;
-}
+        var selectedClass = serviceClassSelect.options[serviceClassSelect.selectedIndex].value;
 
-.dropdown-content a:hover {background-color: #f1f1f1}
+	var servicesSelect = document.getElementById('servicesSelect');
 
-.dropdown:hover .dropdown-content {
-	display: block;
-}
+	for (i =0; i<servicesSelect.options.length; i++) {
+        	servicesSelect.options[i] = null;
+	}
+	var correctServices = [];
+        
+        for (var i = 0; i < services.length; i++) {
 
-.dropdown:hover .dropbtn {
-	background-color: #3e8e41;
-}
-		</style>
+          if (services[i][2] == selectedClass) {
+            var option = document.createElement("option");
+            option.text = services[i][0];
+            option.value = services[i][1];
+            servicesSelect.add(option);
+            console.error("Added + " + option);
+          }
+        }
+      }
+
+      function goToServicePage() {
+        var selectedService = document.getElementById("servicesSelect");
+
+        var selected = selectedService.options[selectedService.selectedIndex].value;
+
+        window.location = "/services/" + selected;
+      }
+  </script>
+</head> 
+
+<body>
+
+  <div id="page-wrap">
+
+    <div id="header">
+      <h1>Paly Service Learning Database</h1>
+    </div>
+    <div id="subtitle">
+      <h2>I want to make an impact on my community by working on...</h2>
+    </div>
+
+    <h3>Search the community service database! (coming soon)</h3>
+
+    <form id="dbsearch">
+          <input type="text" name="searchquery">
+        </form>
+
+	<h3>...or find a service by classification:</h3>
+    <div id="dropdown-menu">
+      <select onchange="onChange()" id = "serviceClassSelect">
+		  <option>(choose a classification)</option>
+        {% for option in ServicesClasses %}
+        <option value="{{option.1}}">{{option.0}}</option>
+        {% endfor %}
+      </select>
+
+      <select id = "servicesSelect">
+      </select>
+    </div>
+
+    <button onclick="goToServicePage()"> Go to the service</button>
 
 
-		<title>GetInvolvedPA</title>
 
-	</head>
+  </div>
 
-	<body>
-
-		<div id="page-wrap">
-
-			<div id="header">
-				<h1>Paly Service Learning Database</h1>
-			</div>
-			<div id="subtitle">
-				<h2>I want to make an impact on my community by working on...</h2>
-			</div>
-
-			<h3>Search the community service database!</h3>
-
-			<div id="dropdown-menu">
-				<div class="dropdown">
-					<button class="dropbtn">Find an activity by classification</button>
-					<div class="dropdown-content">
-						category 1 </br>
-						category 2 </br>
-						category 3 </br>
-					</div>
-				</div>
-			</div>
-
-			<div id="searchbar">
-				<form id="dbsearch">
-					<input type="text" name="searchquery">
-				</form>
-			</div>
-
-		</div>
-
-	</body>
+</body>
 
 </html>
