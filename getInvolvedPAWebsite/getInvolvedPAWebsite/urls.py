@@ -20,5 +20,6 @@ urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
     url(r'^$',views.index,name="Index"),
     url(r'^services/(?P<serviceId>[0-9]+)/$', views.viewServiceInfo, name="viewServiceInfo"),
+    url(r'^serviceData', views.serviceData)
 ]
  

@@ -1,0 +1,655 @@
+service_id,service_class_id,service_name,agency,street,city,state,zipcode,country,url,contact_phone,contact_name,contact_email,contract_address
+1,1,"Tutoring in Palo Alto","Mitchell Park Library","3700 Middlefield Road","Palo Alto",CA,94303,USA,cityofpaloalto.org/library,,,,NULL
+2,1,"Congregation Beth Am",,"26790 Arastrodero Road","Palo Alto",CA,94022,USA,www.betham.org,,,,NULL
+3,1,"YMCA - Kids",,"3412 Ross road","Palo Alto",CA,94303,USA,ymcasc.org/paloalto,,,,NULL
+4,1,"Teen Arts Council- Childresn's Theatre",,"1305 Middlefield","Palo Alto",CA,94301,USA,cityofpaloalto.org,,,,NULL
+5,1,"Jewish Community Center - Kids",,"4000 Middlefield","Palo Alto",CA,94303,USA,www.paloaltojcc.org,,,,
+6,5,"Palo Alto Youth Council",,"3800 Middlefield Road","Palo Alto",CA,94303,USA,cityofpaloalto.org,,,,
+7,1,"Lucie Stern Community Center",,"1305 Middlefield","Palo Alto",CA,94301,USA,cityofpaloalto.org,,,,
+8,1,"Tutoring in Bay Area","Menlo Park Presbyterian Church","Department of Athletics","Menlo Park",CA,94025-4682,USA,mppc.org,,,,
+9,1,"East Palo Alto  Tutor and Tennis - Stanford",EPATT,"1305 Middlefield",Stanford,CA,94305,USA,www.epatt.org/,,,,
+10,1,"BBBS of the Bay Area",,"731 Market Street 6th Floor","San Francisco",CA,94103,USA,bbbsbayarea.org,,,,
+11,1,"Palo Alto High School","Academic Resource Center","50 Embarcadero Road","Palo Alto",CA,94301,USA,www.paly.net,,,,
+12,1,"Wisdom Culture and Education Organization",,"44577 S Grimmer Blvd",Fremont,CA,94538-6309,USA,wceo.org,,,,
+13,1,"El Carmelo Elementary School",,"3024 Bryant Street","Palo Alto",CA,94306,USA,www.pausd.org,,,,
+14,1,"Nakayoshi Gakko",,"575 N. shoreline Blvd","Mountain View",CA,94043,USA,www.nakayoshigakko.org/,,,,
+15,1,"Catholic Korean School of San Jose",,"531 East Weddell Drive",Sunnyvale,CA,94084,USA,www.koreanschoolca.org/,,,,
+16,1,"Walter Hays Elementary School",,"1525 Middlefield road","Palo Alto",CA,94301,USA,www.pausd.org,,,,
+17,1,"CK-12 Foundation",,"1860 Embarcadero Road, Suite 100","Palo Alto",CA,94303-3310,USA,www.ck12.org,,,info@ck12.org,
+19,1,Kidizens,,"074 Fabian Way, Ste 1","Palo Alto",CA,94303,USA,kidizenspaloalto.com,,,,
+20,8,"Amigos De las Americas","Peninsula Chapter","P.O. Box 1319","Menlo Park",CA,94026,USA,"www.amigospeninsula.org/ ",,,,
+21,1,"Math  Olympiad",,"2091 Park Blvd","Palo Alto",CA,94306,USA,,,,,
+22,1,"Tzu Chi Academy",,"P.O. Box 1125","San Mateo",CA,94403,USA,northerncal.us.tzuchi.org/nc.nsf,,,,
+23,1,"Ohlone Foreign Language Program ",,"2458 W Bayshore #3","Palo Alto",CA,94303,USA,www.pausd.org,,,,
+24,1,CISV,,"19 Doner Ct","San Jose",CA,94070,USA,www.cisv.org/,,,,
+25,1,"PALY special Ed. Class 409",PALY,"50 embarcadero Road","Palo Alto",CA,94301,USA,www.paly.net,,,,
+26,1,"Russian School of Mathmatics",,"160 Saratoga Ave. Suite 280","Santa Clara",CA,95051,USA,www.russianschool.com,,,,
+27,1,"City of Palo Alto - Summer Counseler in training ","Lucie Stern Center","1451 Middlefield Road","Palo Alto",CA,94301,USA,cityofpaloalto.org,,,,
+28,1,"Tutoring in other areas/international","No. 4 Middle School",,Xilinhaote,InnerMongolia,,CHINA,,,,,
+29,1,"Ravenswood School District",,"2120 Euclid Avenue","East Palo Alto",CA,94303-1799,USA,www.ravenswood.k12.ca.us/,,,,
+30,1,"Jin Family Tutoring Services",,"Bldg 4, 46 East Zone Nandajie, Zhongguanchun, Haidian District",Beijing,,,CHINA,,,,,
+31,1,"Palo Alto Art Center",,"1313 Newell Road","Palo Alto",CA,94301,USA,cityofpaloalto.org,,,,
+32,1,"Global Volunteers at Orphanage",,"25 Churchill Ave","Palo Alto",CA,94306,USA,www.globalvolunteers.org/,,,,"375 East Little Canada Road, St. Paul, MN 55117-1628"
+1001,2,"YMCA - Sports",,"3412 Ross road","Palo Alto",CA,94303,USA,ymcasc.org/paloalto,,,,
+1002,2,"East Palo Alto  Tutor and Tennis - East Palo Alto",EPATT,"Department of Athletics","East Palo Alto",CA,94303,USA,www.epatt.org,,,,
+1004,2,"Stanford Soccer Club",,"310 Colorado Ave","Palo Alto",CA,94306,USA,www.stanfordsoccerclub.org,,,,"Room A2, Cubberley Community Center, 4000 Middlefield Road, Palo Alto, CA 94306"
+1005,2,"AYSO Soccer",,"685 Wellsbury way","Palo Alto",CA,94306,USA,www.ayso26.org/ ,,,,
+1006,2,"Palo Alto Little League",,"P.O. Box 785","Palo Alto",CA,94302,USA,www.pabaseball.org/,,,,
+1007,2,"Winter Lodge at Palo Alto",,"3009 Middlefield Road","Palo Alto",CA,94306,USA,www.winterlodge.com,650-493-4566,,,
+1008,2,"Galileo Learning ",,"3270 Lakeshore Avenue",Oakland,CA,94610,USA,www.galileo-learning.com/,510-595-729,,,
+1009,3,"VIA Services",,"13851 Stevens Canyon Road",Cupertino,CA,94014,USA,www.viaservices.org,,,,
+1011,2,"Palo Alto City Hoops",,"398 Irving Avenue","San Jose",CA,95128,USA,www.city-hoops.com,,,,
+1012,2,"Overland Summers",,,Williamstown,MA,01267,USA,www.overlandsummers.org,,,,
+1013,2,"Grace Christian Academy",,"67 Dong Sing St, Nan Kang District",Taipei,,115,Taiwan,,,,,
+1014,2,"Deer Hill Expeditions",,"PO Box 180",Mancos,CO,81328,USA,www.deerhillexpeditions.com,,,,
+2001,3,"Lytton Gardens Senior Communities",,"437 Webster Street","Palo Alto",CA,94301,USA,www.lyttongardens.org,,,,
+2002,3,"Jewish Community Center - Senior",,"4000 Middlefield","Palo Alto",CA,94303,USA,www.paloaltojcc.org,,,,
+2003,3,"Peninsula Jewish Teen Community Foundadtion",,"5150 El Camino Real suit D11","Los Altos",CA,94022,USA,www.sfjcf.org/,,,,
+2004,3,"VA Palo Alto",,"3801 Miranda Ave","Palo Alto",CA,94304,USA,www.palo-alto.med.va.gov/,,,,
+2005,3,"Special Olympics - Senior Games",,"1445 Koll circle, Suite 104 ","San Jose",CA,95112,USA,www.specialolympics.org/leaders.aspx,,,,
+3001,4,"Marine Science Institute",,"500 Discovery Parkway","Redwood City",CA,94063,USA,www.sfbaymsi.org,,,,
+3002,3,"Westwind Riding Institute",,"27210 Altamont Rod","Los Altos Hills",CA,94022,USA,,,,,
+3003,4,"Palo Alto Animal Service",,"3281 E. Bayshore Rd","Palo Alto",CA,94303,USA,www.cityofpaloalto.org,,,,
+3004,4,"Nine Lives Foundation",,"3016 Rolison Road","Redwood City",CA,94063,USA,www.ninelivesfoundation.org/,,,,
+3005,4,"San Francisco Zoo",,"1 Zoo Road","San Francisco",CA,94132,USA,www.sfzoo.org,,,,
+3006,4,"Palo Alto Junior Museum and Zoo",,"1451 Middlefield Road","Palo Alto",CA,94301,USA,www.cityofpaloalto.org,,,,
+6001,4,Canopy,,"3921 East Bayshore Road","Palo Alto",CA,94303,USA,www.canopy.org,,,,
+6002,4,"San Mateo County","Department of Parks","455 County Center, 4th Floor","Redwood City",CA,94063,USA,www.co.sanmateo.ca.us/portal/site/parks/,650-599-1721,,,
+6003,4,"Tahoe Meadows",,,"South Lake Tahoe",CA,,USA,www.tahoemeadows.org/,,,,
+6004,4,"Rebuilding Together Penninsula",,"841 Kaynyne Street","Redwood City",CA,94063-3000,USA,www.rebuildingtogetherpeninsula.org,,,,
+6005,4,"Regenerative Science Institute",,"1230 Bordeaux Ave",Sunnyvale,CA,94089,USA,www.regensci.org/,,,,
+6006,6,Esperanza,,"717 3rd Avenue","Chula Vista",CA,91910,USA,,,,,
+6007,4,"Jasper Ridge Biological Preserve","Stanford University","Gilbert 410",Stanford,CA,94301,USA,jrbp.stanford.edu/,,,,
+6008,4,"Save the Bay",,"350 Frank A. Ogawa Plaza","South Oakland",CA,94609,USA,www.savesfbay.org,,,,
+6009,4,Acterra,,"3921 E. Bayshore","Palo Alto",CA,94303,USA,www.acterra.org/,,,,
+6010,6,"Habitat for Humanity",,"690 Broadway Street","Redwood City",CA,94063,USA,www.habitat.org/,,,,
+6011,6,"Rustic Pathways",,"P.O. Box 1150",Willoughby,OH,44096,USA,www.rusticpathways.com/,,,,
+6012,6,"Volunteer Maintenance Club",,"128 Academia Rd. Sec. 2, NanKang"," Taipei",,,Taiwan,,,,,
+6013,4,"EHC Lifebuilders","EHC Lifebuilders","507 Valley Way",Milpitas,CA,95035,NULL,NULL,408-963-2322,"Carson Kimberley",NULL,NULL
+7001,8,"American Red Cross","Palo Alto Chapter","400 Mitchell Lane","Palo Alto",CA,94301,USA,www.siliconvalley-redcross.org,877-727-6771,,,"Sillicon Valley Chapter, 2731 North 1st Street, San Jose, CA 95134"
+7003,8,"American Disaster Relief",,"50 Embarcadero Road","Palo Alto",CA,94301,USA,www.facebook.com/americandisasterrelief,,,,
+7005,3,"Abilities United",,"525 East Charleston","Palo Alto",CA,94306,USA,www.abilitiesunited.org,650-320-8237,,,"3864 Middlefield Road, Palo Alto, CA 94303-4716"
+7006,7,"Lucile Packard Children's Hospital",,"770 welch road, suite 150","Palo Alto",CA,94304,USA,www.lpch.org/,,,,
+7008,7,"Stanford Unv. Medical Center Auxillary",,"300 Pasteur Drive","Palo Alto",CA,94304,USA,"www.stanfordhospital.org /Volunteering",,,,
+7009,7,"El Camino Hospital",,"2500 Grant Road","Mountain View",CA,94304,USA,www.elcaminohospital.org/,650-940-7000,,,
+7010,7,"American Cancer Society",,"243 Main Street","Los Altos",CA,94022,USA,www.cancer.org/,,,,
+7011,7,"Laguna Honda Hospital",,"375 Laguna Honda Blvd","San Francisco",CA,94116,USA,www.lagunahonda.org/,,,,
+7012,8,"International Health Care Volunteers",,"P.O. Box 8231",Trenton,NJ,08650,USA,www.ihcv.org/,,,,
+7013,1,"Partner In Education - PIE",NULL,"25 Churchill Ave.","Palo Alto",CA,94306,USA,www.papie.org/index.html,650-329-3990,NULL,NULL,NULL
+7014,1,"Escondido Elementary School",NULL,"890 Escondido Road",Stanford,CA,94305,USA,www.escondidoschool.org/,650-856-1337,NULL,NULL,NULL
+7015,1,"Palo Alto Library",NULL,"1213 Newell Road","Palo Alto",CA,94303,USA,www.cityofpaloalto.org/depts/lib/default.asp,650-329-2436,NULL,NULL,NULL
+7016,10,"PALY Key-Club",PALY,"50 Embarcadero Road","Palo Alto",CA,94301,USA,www.paly.net,NULL,NULL,NULL,NULL
+7017,1,"Dance Visions","Dance Visions","4000 Middlefield Road, Cubberly center L-3","Palo Alto",CA,94306,USA,www.danceaction.org/home.html,650-858-2005,NULL,NULL,NULL
+7018,1,"Girl Scouts of America","Palo Alto chapter","1120 Hopkins Avenue","Palo Alto",CA,94301,USA,NULL,650-853-9692,"Suzanne Bell",NULL,NULL
+7020,1,"Grace Luthern Church of Palo Alto",NULL,"3149 Waverly Street","Palo Alto",CA,94301,USA,NULL,650-494-1212,"Melissa Johnson",NULL,NULL
+7021,1,"Friends of Palo Alto Library",NULL,"4000 Middlefield Road","Palo Alto",CA,94306,USA,NULL,650-213-8755,"Jerry Stone",NULL,NULL
+7022,1,"Valley Christian Schools","San Jose","100 Skyway Drive","San Jose",CA,95111,USA,NULL,408-559-4400,"Antette Lare",NULL,NULL
+7023,9,"Second Harvest Food Bank",,"151 Bing Street","Santa Clara",CA,94070,USA,NULL,650-610-0800,"Rita Guntern",NULL,NULL
+7024,1,"Camp Galileo",NULL,"3279 Lakeshore Avenue",Oakland,CA,94610,USA,NULL,510-595-7293,"Anne Hefflinger",NULL,NULL
+7025,9,"My NewRed Shoes","Menlo Park","P.O. Box 1264","Menlo Park",CA,94026,USA,NULL,415-990-0146,"Meridith Ackley",NULL,NULL
+7026,8,"South Peninsula Jewish Community Teen Center",NULL,"6150 El Camino Real, Suite D-11","Los Altos",CA,940222,USA,NULL,NULL,NULL,NULL,NULL
+7027,2,"Silicon Valley Bicycle Coalition","Bay Area","P.O. Box 8447","San Jose",CA,95155,USA,NULL,408-287-7259,"David Fork",NULL,NULL
+7028,1,"Korean Emmanuel Presbyterian Church",NULL,"4435 Fortran Drive","San Jose",CA,95134,USA,www.sjkepc.org,408-263-5100,"Derek H Song",NULL,NULL
+7029,1,"PALY Music Booster",PALY,"50 Embarcadero Road","Palo Alto",CA,94301,USA,www.paly.net,650-329-3893,"Jeff Willner",NULL,NULL
+7030,2,"PALY Softball Booster",PALY,"50 Embarcadero Road","Palo Alto",CA,94301,USA,www.paly.net,NULL,NULL,NULL,NULL
+7031,7,"Stanford Blood Center",NULL,"780 Welch Road, Suite 100","Palo Alto",CA,94304,USA,NULL,650-725-4440,"Michele Scroggins",NULL,NULL
+7032,6,"Casaverde Ministries",NULL,"5 Avenue, 6-32 Zona 8","Villa Nueva",NULL,NULL,Guatemala,NULL,NULL,"Christopher Schoff",casaverde@cotrmellbounne.com,NULL
+7033,2,"Sail Caribbean",NULL,"256 Main Street, #1203",Northport,NY,11768,USA,www.sailcaribbean.com,863-299-8967,"Eileen Rothschild",Eileen_Rothschild@yahoo.com,NULL
+7034,4,"Alliance for Climate Protection",NULL,"860 El Camino Real, Suite 400","Menlo Park",CA,94025,USA,NULL,650-543-7341,"Melissa Foley",NULL,NULL
+7035,9,"Home of Hope Inc.",NULL,"190 Tobin Clark Drive",Hillsborough,CA,94010,USA,NULL,650-520-3204,"Nilima Sabhasmal",NULL,NULL
+7036,1,"PALY Sculpture Department",PALY,"50 Embarcadero Road","Palo Alto",CA,94301,USA,www.paly.net,NULL,"David Camnon",NULL,NULL
+7037,3,"Ice Oasis","Special Skater's Program","3140 Bay Road","Redwood City",CA,94063,USA,www.iceoasis.com,650-364-8090,"Susan Blaisdell",NULL,NULL
+7038,1,"Sino Language Gateway",NULL,"P.O. Box 23634 ","San Jose","CA ","95153 ",USA,www.sinolanguage.com,408-360-9958,NULL,NULL,NULL
+7039,1,"Peach Foundation",NULL,"1098 Marlin Ave. ","Foster City",CA,94404,USA,NULL,650-688-0415,"Trish Bubenik",NULL,NULL
+7041,1,"Presbyterian Church","Children's Ministry","950 Santa Cruz Ave. ","Menlo Park",CA,94025,USA,NULL,650-323-8647,"Chris Dorst",NULL,NULL
+7042,8,"New Global Citizens",NULL,"2610 Mission Street, Suite 502","San Francisco",CA,94110,USA,NULL,510-59307549,"Becky Bycer",NULL,NULL
+7043,1,"Palo Alto Chamber Orchestra",NULL,"4000 Middlefield Rd. #M1","Palo Alto",CA,94306,USA,NULL,650-856-3848,"Linh Tran",NULL,NULL
+7044,4,"San Mateo County Parks",NULL,"455 County Center, 4th Floor","Redwood City",CA,94063,USA,www.co.sanmateo.ca.us/portal/site/parks/,650-363-4020,"David Holland",dholland@co.sanmateo.ca.us,NULL
+7045,1,"Palo Alto Children's Theatre",NULL,"1305 Middlefield Road","Palo Alto",CA,94301,USA,NULL,650-463-4930,"Emika Abe",NULL,NULL
+7046,1,"PALY Historical Reenactmets",PALY,"50 Embarcadero Road","Palo Alto",CA,94301,USA,www.paly.net,650-329-3836,"Mike McGovern",NULL,NULL
+7047,9,"Diocese of San Jose Urban Plunge","Santa Clara county","3290 Middlefield Road","Palo Alto",CA,94306,USA,NULL,650-494-2496,"Rob Manfrey",NULL,NULL
+7048,9,"Ecumenical Hunger Program",NULL,"2411 Pulgas Ave.","East Palo Alto",CA,94303,USA,NULL,650-323-7781,"Donald Hcnter",NULL,NULL
+7049,1,"Pacific Coast Kids",NULL,"1525 Middlefiled Road","Palo Atlo",CA,94301,USA,NULL,650-321-5697,"Alan Clark",NULL,NULL
+7050,7,"Family Practice Medical Associates",NULL,"455 O'Conner Drive , Suite 200","San Jose",CA,95128,USA,NULL,408-995-5453,"Michael Henehan",NULL,NULL
+7051,9,"Inn Vision Urban Ministry of Palo Alto",NULL,"33 Encina Avenue","Palo Alto",CA,94301,USA,NULL,NULL,NULL,NULL,NULL
+7052,1,"Midpeninsula Media Center",NULL,"900 San Antonio Road","Palo Alto",CA,94303,USA,NULL,650-494-8686,"Danielle Fairbarin",NULL,NULL
+7053,1,"Silver Ting Thing",NULL,"544 Moon Clinton Road","Moon Township",PA,15108,USA,"www.Silverringthing.com
+",NULL,NULL,NULL,NULL
+7054,4,"city of Los Altos Recreation Department",NULL,"97 Hillview","Los Altos",CA,94022,USA,NULL,650-947-2790,"Hung S. Nguyen",NULL,NULL
+7055,1,"The Friendship Circle",NULL,"3900 Fsbian Way","Palo Alto",CA,94303,USA,NULL,650-858-6990,"Chanie Robbinds",NULL,NULL
+7056,1,"Kenndyn Camps",Sequel,"8205 Glen Haver Road",Sequel,CA,NULL,NULL,NULL,831-479-6714,"Chris Woodrow",NULL,NULL
+7057,1,"PALY-Associated Student Body",PALY,"50 Embarcadero Road","Palo Alto",CA,94301,USA,www.paly.net,NULL,NULL,NULL,NULL
+7058,1,"PALY CCC - College and Career Center",PALY,"50 Embarcadero Road","Palo Alto",CA,94301,USA,www.paly.net,NULL,NULL,NULL,NULL
+7059,1,"PALY ARC",PALY,"50 Embarcadero Road","Palo Alto",CA,94301,USA,www.paly.net,NULL,NULL,NULL,NULL
+7060,1,"PALY- YCS",PALY,"50 Embarcadero Road","Palo Alto",CA,94301,USA,www.paly.net,NULL,NULL,NULL,NULL
+7061,1,"Art at PALY",PALY,"50 Embarcadero Road","Palo Alto",CA,94301,USA,www.paly.net,NULL,NULL,NULL,NULL
+7062,9,"Urban Ministry of Palo Alto",NULL,"P.O. Box 702","Palo Alto",CA,94302,USA,www.umpa.org,650-853-8697,"Brooke Scharnke",NULL,NULL
+7063,1,"East Palo Alto Phoenix Academy",NULL,"1848C Bay Road","East Palo Alto",CA,94303,USA,www.epapa.org/,"650)-325-1460 ",NULL,NULL,NULL
+7064,1,"PALY Debate Club",PALY,"50 Embarcadero Road","Palo Alto",CA,94301,USA,www.paly.net,NULL,NULL,NULL,NULL
+7065,5,"Children International Summer Village  - CSIV","CSIV - USA","1375 Kemper Meadow Drive, Suite 9-B",Cincinnati,OH,45240,USA,www.cisvusa.org/,888-CISV-USA,NULL,NULL,NULL
+7066,2,"Foothill Tennis and Swimming Club",NULL,"3351 Miranda Ave","Palo Alto",CA,94304,USA,www.foothills-club.org/club/scripts/view/view_directions.asp?GRP=593&NS=PUBLIC&APP=60,650-493-8540,NULL,NULL,NULL
+7067,9,"My New Red Shoes",Burlingame,"111 Anza Blvd., Suite 110",Burlingame,CA,94010,USA,www.mynewredshoes.org/,650-241-3911,NULL,NULL,NULL
+7068,9,"Society of St. Vincent de Paul",NULL,"58 Progress Parkway","St. Louis",MO,63043,USA,www.svdpusa.org/,314-576-3993,NULL,usacouncil@svdpusa.org,NULL
+7069,1,"Palo Alto World Music Day",NULL,NULL,"Palo Alto",CA,NULL,USA,www.pamusicday.org,NULL,NULL,info@pamusicday.org,NULL
+7070,7,"Mental Research Institute - MRI",NULL,"555 Middlefield Rd","Palo Alto",CA,94301,USA,www.mri.org,650-321-3055,NULL,mri@mri.org,NULL
+7071,1,"Jordan Middle School",NULL,"750 North California Avenue","Palo Alto",CA,94303,USA,www.jordan.pausd.org/,650-494-8120,NULL,NULL,NULL
+7072,2,"Eichler Swim and Tennis Club",NULL,"3539 Louis Road","Palo Alto",CA,94303,USA,eichlerclub.com,650-494-6521,NULL,NULL,NULL
+7073,1,"Santa Clara Muslim Community Center",NULL,NULL,NULL,NULL,NULL,NULL,www.mcabayarea.org/,NULL,NULL,NULL,NULL
+7074,4,"Environmental Protection Society",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7075,4,"Volunteers for Ecological Environment",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7076,7,"Taiwan Foundation for Blind",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7077,1,"Junior Counselor Camp - city of Palo Alto","LUcie Stern Community Center",NULL,"Palo Alto",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7078,1,"PALY math tutor",NULL,"50 Embarcadero Road","Palo Alto",CA,94301,USA,NULL,NULL,NULL,NULL,NULL
+7079,1,"wisdom Camp",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7080,5,"Office of California State -San Jose Simitian",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7081,1,"Camp Chretien Francais",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7082,4,Acentra,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7083,3,"Senior Games",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7084,3,"Sunrise Senior Living",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7085,7,"Muscular Dystrophy Association",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7086,1,"PALY InFocus Television Network",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7087,2,PALY-Sports,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7088,1,"PALY Parking",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7089,1,"Gunn High School",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7090,1,"JLS Middle School",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7091,7,"Stanford Bipolar Clinic",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7092,1,ASACA,NULL,NULL,NULL,NULL,NULL,NULL,NULL,http://www.asaca-usa.org/,NULL,NULL,NULL
+7093,1,"Stanford University",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7094,1,"Boys and Girls Club of the Peninsula",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7095,1,RAFT,NULL,"1355 Ridder Park Drive","San Jose",CA,95131,USA,www.raft.net,408-451-1420,NULL,NULL,NULL
+7096,1,"Palo Alto Buddhist Temple",NULL,"2751 Louis Road","Palo Alto",CA,94303,USA,www.pabt.org,650-856-9130,NULL,NULL,NULL
+7097,1,"PALY - Palo Alto High School",NULL,"50 Embarcadero Road","Palo Alto",CA,94301,USA,www.paly.net,650-329-3701,NULL,NULL,NULL
+7098,1,"City of Palo Alto",NULL,"250 Hamilton Ave","Palo Alto",CA,94301,USA,www.cityofpaloalto.org,650-329-2100,NULL,NULL,NULL
+7099,1,Invision,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7100,1,"Duveneck Elementary School",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7101,7,"American Heart Association",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7102,2,"PALY PE",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7103,3,"Junior Blind of America",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7104,1,"chinese community Center-SF","San Francisco","1199 Mason Street","San Francisco",CA,94108,USA,NULL,415-292-2017,NULL,NULL,NULL
+7105,7,"Menlo Park VA",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7106,4,"Springdown Equestrian Center","Portola Valley","725 Portola Road","Portola Valley",CA,94028,USA,www.springdown.com,650-851-1114,NULL,NULL,NULL
+7107,7,"Crane Club",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7108,10,"United Nation Association",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7109,1,"American Language/Culture School",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7110,2,"Skate school @Belmont iceland",NULL,"815 Old County Eoad",Belmont,CA,94002,NULL,NULL,650-592-0533,"Alyssa Lewis",NULL,NULL
+7111,7,"American Diabetes Association",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7112,7,"Chinese Hospital at San Francisco",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7113,1,"Silicon Valley Alliance Church-Life Orchestra",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7114,2,"children's discovery museum",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7115,4,"Deel Hill Expeditions",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7116,1,"San Jose State University",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7117,1,"Los Altos Library",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7118,2,"Water Polo Junior Olympics",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7119,2,"Best Buddies Challenges at Hearst Castle",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7120,1,"Castilleja School",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7121,5,"Sillicon Valley Community Foundation",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7122,1,"Boy Scouts of America",NULL,"1150 Chess Dr","Foster City",CA,94404,NULL,www.scouting.org/,650-341-5633,NULL,NULL,NULL
+7123,1,"Chinese Church in Christ Mountain View","CCiC MV","920 Sierra Vista Avenue","Mountain View",CA,94043,USA,www.ccic.org/mv/about_ccic-mv.htm,650-968-2900,NULL,NULL,NULL
+7124,1,"Menlo Park Library",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7125,3,"Recording for the Blind and Dyslexic",RFB&D,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7126,1,PAUSD,NULL,NULL,NULL,NULL,NULL,NULL,NULL,http://www/rfbd.org,NULL,volunteer@rfbd.org,NULL
+7127,1,"EF Education Home Stay Program",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7128,1,"people to people",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7129,1,"San Jose Tech Museum",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7130,2,"peninsula youth theatre",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7131,1,"Copper Creek Camp",NULL,"887 Williams Valley Rd",greensville,ca,95947,usa,www.coppercreek.com,530-284-7617,NULL,NULL,NULL
+7132,1,"Fly Young",NULL,"1177 Laurelwood Rd.","Santa Clara",CA,NULL,USA,www.fly-young.org,NULL,"James Wang",rolccjames@yahoo.com,NULL
+7133,3,"Summer's Excellent Adventures","City of Palo Alto",NULL,"palo alto",ca,94301,usa,www.cityofpaloalto.org,650-463-4953,"Minka van der Zwaag",,NULL
+7134,2,"Stanfrod water polo club",NULL,NULL,"palo alto",CA,NULL,USA,www.stanfordwaterpoloclub.com,NULL,NULL,NULL,NULL
+7135,9,"Abundant Life Assembly of God",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7136,1,"spanish immersion program association at Palo Alto",SIPAPA,NULL,"palo alto",ca,NULL,NULL,www.SIPAPA.org,NULL,NULL,"SIPAPA.info@gmail.com ",NULL
+7137,1,"Student Conservation Association",thesca,"1230 Preservation Parkway",Oakland,ca,94612,usa,www.thesca.org,510-832-1966,"Jay Watson",NULL,NULL
+7138,9,"SEVA Foundation",SEVA,"1786 Fifth Street",Berkerley,CA,94710,USA,www.seva.org,510-845-7382,NULL,NULL,NULL
+7139,1,"Camp Winnarainbow",NULL,NULL,Berkerley,CA,NULL,USA,www.campwinnarainbow.org,NULL,NULL,arainbow@mcn.org,NULL
+7140,7,"Children's Helath Council",NULL,"650 Clark Way","Palo Alto",CA,94304,USA,www.chonline.org,650-326-5530,NULL,NULL,NULL
+7141,4,"Camp Bizsmart",NULL,NULL,"Palo Alto",CA,NULL,USA,www.campbizsmart.org,800-475-0869,NULL,NULL,NULL
+7142,1,"San Francisco Conservertory of Music",SFCM,"50 Oak Street","San Francisco",CA,94102,USA,www.sfcm.edu,415-864-7326,NULL,NULL,NULL
+7143,1,"The Perlman Music Program",NULL,NULL,NULL,CA,NULL,NULL,www.perlmanmusicprogram.org/,NULL,NULL,NULL,NULL
+7144,1,"The Diller Teen Fellows",NULL,"121 Steuart Street","San Francisco",CA,94105,USA,htto://www.sfjcf.org,415-777-0411,NULL,NULL,NULL
+7145,1,"Trust in Education",NULL,"P.O. Box 936",Lafayette,CA,94549,USA,www.trustineducation.org,925-299-2010,NULL,NULL,NULL
+7146,4,"Hidden Villa",NULL,"26870 Moody Road","Los Altos",CA,94022,USA,www.hiddenvilla.org,650-949-8650,NULL,info@hiddenvilla.org,NULL
+7147,9,"Bread of life",NULL,"1703 Gray Street",Houston,TX,77002,NULL,www.breadoflifeinc.org,713-650-0595,NULL,NULL,NULL
+7148,9,"World Vision International",NULL,"800 West Chestnut Avenue",Monrovia,CA,91016,USA,www.wvi.org,NULL,NULL,NULL,NULL
+7149,7,"Face Aids",NULL,"P.O. Box 46","Palo Alto",CA,94302,USA,www.faceaids.org,NULL,NULL,NULL,NULL
+7150,2,"Julie Foudy Sports Leadership Academy",NULL,"1801 S. Prairie Avenue",Chicago,IL,60616,USA,www.juliefoudyleadership.com,949-648-2050,NULL,,NULL
+7151,1,"North American Federation of Temple Youth-NFTY",NULL,"633 Third Avenue, 7th Floor","New York",NY,10017,USA,www.nfty.org,212-650-4070,NULL,NULL,NULL
+7152,4,"Earthwatch Institute",NULL,"114 Western Ave.",Boston,MA,02134,USA,www.earthwatch.org,800-776-0188,NULL,NULL,NULL
+7153,1,"""I have a dream"" Foundation",,"330 Seventh Avenue, 20th Floor","New York",NY,10001,USA,www.Ihaveadreamfoundation.org,212-293-5480,NULL,NULL,NULL
+7154,4,"American Rivers",NULL,"1101 14th Street NW, Suite 1400",Washington,DC,20005,USA,www.americanrivers.org,202-347-7550,NULL,NULL,NULL
+7155,4,"Tuolumne River Trust",NULL,"111 New Montgomery Street, Suite 205","San Francisco",CA,94105,USA,www.tuolumne.org,415-882-7252,NULL,NULL,NULL
+7156,2,"Castro Elementary",NULL,"220 View Street","Mountain View",CA,94041,USA,NULL,650-526-3590,NULL,NULL,NULL
+7157,1,"A Holiday Affaire",NULL,NULL,NULL,NULL,NULL,NULL,NULL,310-545-6239,NULL,NULL,NULL
+7158,7,"The Leukemia & Lymphoma Society",NULL,NULL,NULL,NULL,NULL,NULL,www.leukemia-lymphoma.org,800-955-4572,NULL,NULL,NULL
+7159,1,Cinequest,NULL,"P.O. Box 720040","San Jose",CA,95172,USA,www.cinequest.org,408-295-3378,NULL,contact@cinequest.org,NULL
+7160,1,"South Peninsula Hebrew Day School-SPHDS",NULL,"1030 Astoria Drive",Sunnyvale,CA,94087,USA,www.sphds.org,408-738-3060,NULL,NULL,NULL
+7161,1,"Center for Youth Evangelism",NULL,"4145 E. Campus Circle Drive","Berrien Spring",MI,49104,USA,www.adventistyouth.org,800-968-8428,NULL,NULL,NULL
+7162,4,"NASA Ames",NULL,NULL,NULL,CA,,USA,www.nasa.org,,NULL,NULL,NULL
+7163,1,"Aeron Flute Inc.",NULL,"557 Leland Avenue","San Jose",CA,95128,USA,www.aeronflutes.com,408-394-9264,NULL,contact@aeronflutes.com,NULL
+7164,1,"Beechwood Elementary School",NULL,"780 Beechwood Avenue",Fullerton,CA,93835,USA,www.fsd.k12.ca.us,714-447-2850,NULL,NULL,NULL
+7165,1,"St. vincent de Paul",NULL,"165 Stillman Street","San Francisco",CA,94107,USA,www.svdp-sf.org/,415-977-1270,NULL,NULL,NULL
+7166,1,"Make a Wish",NULL,"4742 N. 24th Street, Suite 400",Phoenix,AZ,85016,USA,wish.org,602-279-9474,NULL,NULL,NULL
+7167,4,"Pound Puppy Rescue",NULL,NULL,NULL,NULL,NULL,USA,htt://www.poundpuppyrescue.org,,NULL,NULL,NULL
+7168,6,"Common Ground Releif",NULL,"1800 Deslonde Street","New Orleans",Loisiana,70117,USA,www.commongroundrelief.org,504-942-3737,NULL,NULL,NULL
+7169,6,"Beacon of Hope",NULL,"145 Robert E. Lee Blvd, suite 200","New Orleans",Louisiana,70124,USA,www.lakewoodbeacon.org,504-309-5120,NULL,NULL,NULL
+7170,1,"Hope Lab",NULL,NULL,NULL,NULL,NULL,NULL,hopelab.org,NULL,NULL,NULL,NULL
+7171,5,"Registrar of Voters-Santa Clara County",NULL,"1555 Berger Dr. #A","San Jose",CA,95112,USA,www.sccvote.org,408-299-8683,NULL,NULL,NULL
+7172,6,"Palo Alto Housing Corporation",NULL,"725 Alma Street","Palo Alto",CA,94301,USA,www.paloaltohousingcorp.org,650-321-9709,NULL,NULL,NULL
+7173,3,"Our Lady of Fatima Villa",NULL,"20388 Saratoga-Los Gatos Road",Saratoga,CA,95070,USA,fatimavilla.org,408-741-4930,NULL,NULL,NULL
+7174,3,"Villa Siena Retirement Community",NULL,"1855 Miramonte Ave.","Mountain View",CA,94040,USA,,650-961-6484,NULL,NULL,NULL
+7175,1,"St Albert's Church",NULL,"1022 Holly Street",Alameda,CA,94502,USA,www.stalhsar.com/,510-373-5220,NULL,NULL,NULL
+7176,1,"Bank of West Tournament",NULL,"685 Market Street","San Fransisco",CA,94105,USA,NULL,866-982--8497,NULL,NULL,NULL
+7177,1,"Big Brothers Big Sisters",NULL,"1618 2nd Street","San Rafael",CA,94901,USA,www.bbs.org,415-453-3800,NULL,NULL,NULL
+7178,1,"Ronald Mcdonald",NULL,"1640 Scott Street","San Fransisco",CA,94115,USA,www.rmhcbayarea.com/,415-673-0891,NULL,NULL,NULL
+7179,1,"Art in Action",NULL,"3925 Bohannon Drive","Menlo Park",CA,94025,USA,www.artinaction.org/,650-566-8339,NULL,info@artinaction.org,NULL
+7180,5,"Washington State Democrats",NULL,NULL,NULL,NULL,NULL,NULL,www.wa-democrats.org/home,NULL,NULL,NULL,NULL
+7181,1,"Huabei Oilfield Donfeng Elementary School",NULL,NULL,NULL,NULL,NULL,China,NULL,NULL,NULL,NULL,NULL
+7182,1,"Adolescent Counseling Service",NULL,"4000 Middlefield Road, Suite FH","Palo Alto",ca,94303,USA,www.acs-teens.org,650-424-0852,NULL,info@acs-teens.org,NULL
+7183,4,"canine companions independent",CCI,"P.O. Box 446","Santa Rosa",CA,95402,USA,cci.org,866-224-3647,NULL,NULL,NULL
+7184,8,"Alexandra Chiles Foundation",NULL,"P.O. Box 823","Menlo Park",CA,94026,USA,www.alexandrachilesfoundation.org/,650-948-4793,NULL,abitachiles@gmail.com,NULL
+7185,8,"Action in Africa",NULL,"1634 Eye Street",Washington,DC,20006,USA,www.africaaction.org/,202-546-7961,NULL,NULL,NULL
+7186,2,"First Lego League",FLL,"200 Bedfors Street",Manchester,NH,03101,USA,www.firstlegoleague.org,603-666-3906,NULL,NULL,NULL
+7187,1,"Costano Elementary School","Ravenswood school district","2695 Fordham Street","East Palo Alto",CA,94303,USA,www.ravenswood.k12.ca.us,650-329-2830,NULL,NULL,NULL
+7188,5,"office of senator simitian","160 Town and Country Village","office od Senator Simitian","Palo Alto",CA,94301,USA,www.senatorsimitian.com,916-651-4011,NULL,NULL,NULL
+7189,2,"Stanford Atheletics",NULL,NULL,NULL,NULL,NULL,NULL,www.gostanfrod.com,NULL,NULL,NULL,NULL
+7190,1,"Sojourner Truth Child Development Center",NULL,"3990 Ventura Ct.","Palo Alto",CA,94306,USA,,650-493-5990,NULL,NULL,NULL
+7191,8,"Esperanza Inc",NULL,"3104 W. 25th Street, 4th floor",Cleveland,OH,44109,USA,www.esperanzainc.org,216-651-7178,NULL,NULL,NULL
+7192,1,"All Saints Epixcopla Church",NULL,"1350 Waller Street, Haight Ashbury District","San Francisco",CA,94117,USA,www.allsaintssanfran.org,415-621-1862,NULL,NULL,NULL
+7193,2,"University Club of Palo Alto",NULL,"3277 Miranda Avenue","Palo Alto",CA,94304,USA,www.ucpaloalto.com,650-493-3972,NULL,NULL,NULL
+7194,1,MINGA,NULL,"11 /arlington Street",Boston,CA,02116,USA,www.mingagroup.org,617-895-0245,NULL,NULL,NULL
+7195,2,"Jefunira Camp",NULL,"221 Lassen Avenue","Mountain View",CA,94043,USA,www.jefuniracamp.com,650-291-2888,NULL,NULL,NULL
+7196,7,"Susan G. Koman for the Cure",NULL,NULL,"San Francisco",CA,NULL,USA,ww5.komen.org,972-701-2168,NULL,news@komen.org,NULL
+7197,1,"southwestern university",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7198,9,"Sacred Heart Community Service {Hand On Bay Area}","Food/Shelter (Food Packaging)","1381 S. First St. {135 Bluxome St. 2nd floor}","San Jose {San Francisco}",CA,"95110 {94107}",USA,,415-541-9616,"Shuai Chen {Hand On Bay Area}",,NULL
+7201,2,"Oshman Family JCC","Sports/Kids (J-Camp Administration)","3921 Fabian Way","Palo Alto",CA,94303,USA,,650-223-8622,"Katie Chapin",,NULL
+7202,8,"Ramat HaShikma Community Center (Matnas)","Humanitarian (Assistant Counselor)","Shalem 32. Ramat Gan Israel",,,,Israel,,03-6311410,"Pini Goldberg",,NULL
+7203,1,"Palo Alto MediaCenter","Education (Youth Advisory Council)","900 San Antonio Rd.","Palo Alto",CA,94303,,,650-494-8686,"Rebecca Fisher",,NULL
+7204,2,"Magical Bridge Playground","Sports/Kids (Events helper: Filming, blowing balloons, concert, etc...)","416 Fulton St.","Palo Alto",CA,94303,,,650-380-1557,"Olenka Villarreal",,NULL
+7205,4,"Bold Earth Adventures","Animal/Environment (clean beaches for wildlife safely)","2308 Fossil Trace Drive",Golden,Colorado,80401,,,,"Abbott Wallis",,NULL
+7206,1,"Paly Debate Team","Education (Teaching Debate & Speech to Middle Schoolers)","Palo Alto High School (50 Embracadero Rd)","Palo Alto",CA,94301,,,650-307-2018,"Jenny Savage",,NULL
+7208,2,"Special Skaters","Sports/Kids (Skating)","3140 Bay Road","Redwood City",CA,94063,,,650-364-8090,"Susan Blaisdell",,NULL
+7209,7,"Lucile Packards Children Hospital","Health Care/Safety (maternity service)","725 Welch road","Palo Alto",CA,94301,,,650-497-8549,"Mary Ellen Cozzi",,NULL
+7210,7,"Lucile Packard Childrens Hospital","Health Care/Safety (maternity service)","725 Welch road","Palo Alto",CA,94301,,,,,,NULL
+7211,2,"Peninsula Skate Club","Sports/Kids (Spring Jubilie Running)","1500 South Tenth St.","San Jose",CA,95112,,,650-274-0278,"Betsy Anderson",,NULL
+7212,10,"Key Club International","GMulti events helper: planting, construction, food packaging,etc...","Palo Alto High School (50 Embracadero Rd)","Palo Alto",CA,94301,,,317-875-8755,"Kevin Hu",,NULL
+7213,1,"Palo Alto Children's Library","Education (Books Shelving & assist on library's works)","1276 Harriet St. ","Palo Alto",CA,94301,,,650-329-2436,,,NULL
+7214,10,"One Million Lights","General/Comunity (fundraising)","P.O. Box 444","Palo Alto",CA,94302,,,"214-505-9877 or 650-387-3150","Jaon Dovsey",,NULL
+7215,2,"City of Palo Alto Recreation","Sports/Kids (Junior Camp counselor)","Lucie Stern Center","Palo Alto",CA,94301,,,650-463-4910,"Khashayar CASH Alaee",,NULL
+7216,4,"Palo Alto Jr. Museum","Animal/Environment (Camp Kinetic helper)","1451 Middlefield Rd.","Palo Alto",CA,94301,,,650-329-2111,"Heather Bakal",,NULL
+7217,3,"National Senior Games","Senior/Disabled (Assist in Badminton & Basketball)","Stanford University","Palo Alto",CA,,,,650-323-9400,"Bonnie Luftig",,NULL
+7219,1,"Woodside Priory School& Sustainable Horizon","Cleaned habitat & Created tortoise pond for Science program at local school","302 Portola Rd.","Portola Valley",CA,94028,,woodsidepriory.com,650-851-6129,"Christine Muir",cmuir@woodsidepriory.com,NULL
+7220,9,"Troop 51- Boy Scouts & America","Scouting for food pick up & drop off & Memorial Day Grave decoration","1094 Forest Ave.","Palo Alto",CA,94301,,,650-323-5160,"Barb Schroder",,NULL
+7221,4,"Palo Alto High School TEAM","Animal/Environment (Arastradero & Save the Bay planting)","Palo Alto High School (50 Embracadero Rd)","Palo Alto",CA,94301,,,650-329-3710,"Ms. Hori",,NULL
+7222,1,"Apple Tree Library Foundation","Books Shelving & assist on library's works, Haiti relief supplies correcting","781 Newell Rd.","Palo Alto",CA,94303,,,408-219-0199,"Cathy Hsiao",,NULL
+7223,8,"Apple Tree Library in China","Teaching & Conducting English reading program for people live in China",,"Hefei, Chongging, Beikei, Jingzhon, Wuhan",,,China,,,,,NULL
+7224,7,"Palo Alto VA Health Care","Health Care/Safety ","3801 Miranda Ave.","Palo Alto",CA,94304,,,650-493-5000,"Jammu owens",,NULL
+7225,2,"Christian Music Theater (CMT)","Sports/Kids (Summer Theatre Camp Counselor)","3149 Waverley St.","Palo Alto",CA,94306-2902,,,650-494-1212,"Karen Salveson",,NULL
+7226,5,"Youth Forum","Civic Engagement ( Youth Forum)",,,,,,,,"Alicia Gregory",alicia@youthcommunityservice.org,NULL
+7227,1,"City of Palo Alto Downtown Library","Education (Assist on library's works)","270 Forest Ave.","Palo Alto",CA,94301,,,650-329-2438,"David Sigua",,NULL
+7228,8,"Tarbiat Modares International University, Natural Resources & Marine Science Department","Humanitarianism (Training, Sample Collection, Data testing & analysis)","Imam Khomeini St.  P.O. Box 64414-356 ",Noor-Mazandaran,,,Iran,,1198-122-625-3101,"Dr. Rabi Behrooz",,NULL
+7229,1,"Living Spanish Org.","Education (Help children to cope & excel in Spanish Immersion Camp)","572 College Ave.","Palo Alto",CA,94306,,,650-813-0970,"Tony Lee",,NULL
+7230,1,"Jordan Math Club","Education (Math Club assisting)","750 N. California Ave.","Palo Alto",CA,94303,,,650-494-8120,"Ellie Slack",,NULL
+7232,3,"Crestmont Conservatory of Music","Senior/Disabled (Playing Music at Senior Nursing Home)","2575 Flores St.",,CA,,,,650-574-4633,"Thomas Hansen",,NULL
+7233,4,"PALY TEAM","Animal/Environment (Arastradero restoration & Save the Bay )","Palo Alto High School (50 Embracadero Rd)","Palo Alto",CA,94301,,,650-329-3701,"Lynn Hori",,NULL
+7234,10,"Hand On Bay Area","General/Community (Family Day at Cantor Center helper)","135 Bluxome St. ","San Francisco",CA,94107,,,415-541-9616,"Lisa Mooring",,NULL
+7236,3,"String Studio","Senior/Disabled (Musical entertainment for seniors)","789 E. Meadow Dr.","Palo Alto",CA,94303,,,650-852-0712,"Anna Sokmor ",,NULL
+7237,10,"Youth Community Service (FLC)","General/Community (Freshman Leadership Camp)","3800 Middlefield Rd.","Palo Alto",CA,94303,,,650-617-8973,"Judy Dauberman",,NULL
+7239,2,"Palo Alto Partners In Education","Sports/Kids (PiE Fair helper)","25 Churchill Ave.","Palo Alto",CA,94306,,,650-329-3723,"Louise Valente",,NULL
+7240,5,"Burnett Academy Debate Tournament","Civic Engagement (Judge community debate)","850 N. 2nd St.","San Jose",CA,,,,,"Gay Brasher",,NULL
+7241,1,"PALY Math Camp","Education (Math Curriculum Preparation & Camp Coaching)","480 E. Meadow","Palo Alto",CA,94306,,,650-619-0212,"Scott Zhuge/ Suzanne Antink",,NULL
+7242,1,"PALY Speech & Debate Camp","Education (Speech & Debate Camp)","Palo Alto High School (50 Embracadero Rd)","Palo Alto",CA,94301,,,650-833-9753,"Jennie Savage",,NULL
+7243,2,"Shoreline Aquatic Center","Sports/Kids (Windsurfing & Sailing Camps helper)",Shoreline,"Mountain View",CA,,,,650-965-7474,"Jim Airo",,NULL
+7247,3,"The Senior Games","Senior/Disabled (Senior Games Mascot/Photographer)","Stanford University","Palo Alto",CA,,,,650-323-9400,,,NULL
+7249,10,"Cantor Art Museum","General/Community (Distributing Rack Cards for Studio Exhibition)","Stanford University","Palo Alto",CA,,,,650-724-3600,"Margaret Whitehorn",,NULL
+7250,2,"California Youth Soccer Association","Sports/Kids (Assistant Coaching in Soccer)","765 Portola Rd.","Portola Valley",CA,94028,,,,"Ernesto Cruz",,NULL
+7251,1,"Kids Against Poverty","Education (Lecture of Wildlife)",,,,,,,,"Stephanie Osborne",,NULL
+7252,7,"Pancreatic Cancer Action Network","Health Care/Safety (Benefit Consert & Lecture)","2141 Rosecrans Ave. ","El Segundo",CA,90245,,,1-310-725-0025,"Lehua Greenman",,NULL
+7253,2,"Gamble Garden Center","Sports/Kids (Family Day- Helping Children with crafts)","1431 Waverley St.","Palo Alto",CA,94301,,,650-329-1356,"Susann Mirabella/ Robin Allen",,NULL
+7254,9,InnVision,"Food/Shelter (Helping set up dinner for homeless)","33 Encina Ave.","Palo Alto",CA,94301,,,"650-853-7066 X 5","Kristin Claler",,NULL
+7255,9,"InnVision- PA Food Closet","Food/Shelter (Baking & Cooking for Homeless)","360 Kellogg Ave.","Palo Alto",CA,94301,,,650-561-3890,"Jane Solomon/ Sara Callahan",,NULL
+7256,10,"Palo Alto High School Music Boosters","General/Community (working at Flea Market)","Palo Alto High School (50 Embracadero Rd)","Palo Alto",CA,94301,,,650-329-3710,"Jeff Willner",,NULL
+7259,10,"Reikes Center","General/Community (Giving Tour & Music Lesson, helping facility & kids, etc...)","3455 Edison Way","Menlo Park",CA,94025,,,650-364-2509,"Lex Ebbink-Alemania/ Gary Reikes",,NULL
+7260,2,"Right To Play","Sports/Kids (Leading Activities for Kids)","65 Queen St. West",Toronto,Ontario,M5H2M5,Canada,,1-416-498-1922,"Doreen Mullady",,NULL
+7261,10,"National Charity League","General/Community (Make Crafts for American Red Cross & Pilgrim Haven)",,,,,,,,"Lisa Carmel",,NULL
+7264,1,"East Palo Alto Tennis & Tutoring (EPATT)","Education (Tutoring Math & English to Kindergarteners)","P.O. Box 60597",,,,,,650-823-0516,"Dave Hiaoki",,NULL
+7265,10,"Palo Alto Auxiliary","General/Community (Lucile Parkards American Girl Fashion Show)","P.O. Box 7064","Menlo Park",CA,94026,,,"650-968-8409 or 650-364-2587","Sarah Beetem",,NULL
+7266,10,"American Cancer Soviety","General/Community (Make bags for Relay for Life)","1650 Amphlett Blvd. Ste 110","San Mateo",CA,94402,,,650-578-9902,"Lisa Carmel/ Nancy Jones",,NULL
+7267,10,"African Library Book Drive","General/Community (BLC Book Packing)",,,,,,,,"R. Kellerman",,NULL
+7270,9,"Free The Children","Food/Shelter (Baked goods to fundraising for childrens in Kenya)","530 Lytton Ave.","Palo Alto",CA,94301,,,,"Shames Panaki",,NULL
+7274,3,"Bay Area Senior Games","Senior/Disabled (Volunteer Tabletennis Tournament for Senior Games)","Stanford University",,CA,,,,650-793-2563,"Dennis Davis",,NULL
+7276,4,"City of San Mateo ","Animal/Environment (Bay Clean Up)","330 W. 20th Ave.","San Mateo",CA,,,,650-522-7300,"Kay McCain",,NULL
+7277,6,"Rebuilding Together Peninsula (RTP)","Home/ Construction (Outdoor & Warehouse Help)","841 Kaynyne St.","Redwood City",CA,94063,,,650-366-6597,"Lily Abt",,NULL
+7278,4,"Green Waste","Animal/Environment (Waste Education at Festival)","2000 Geng Rd.","Palo Alto",CA,,,,650-799-3213,"Zea Luce",,NULL
+7279,10,"Stanford Campus Recreation Association","General/Community (Hospitality for Club Open House & Count Ribbons)","875 Bowdoin St. ",Stanford,CA,94305,,,650-736-7272,"Jeannie Meyer",,NULL
+7280,10,"Nixon PTA","General/Community (PTA Auction Checkout Runner)","1711 Stanford Ave.","Palo Alto",CA,94305,,,650-856-1622,"Gioia Allegretti",,NULL
+7281,10,"Project Linus South Bay/ San Jose","General/Community (Sewing Labels on blankets)","11061 S. Stelling Rd. ",Cupertino,CA,95014,,,408-252-1858,"Sharon Lee",,NULL
+7282,3,"2009 Summer National Senior Games","Senior/Disabled ( Registration & Cyber Cafe Attendant)","Stanford University",Stanford,CA,,,volunteers@2009seniorgames.org,650-323-9400,"Bonnie Luftig",,NULL
+7283,2,"Sky Camp","Sports/ Kids (Volunteer work with little kids)","1207 Waverley St.","Palo Alto",CA,94301,,,650-796-1200,"Slylor Dororn",,NULL
+7284,4,"Global Volunteers","Animal/ Environment (Ambassador)","875 E. Little Canada Rd.",,,,,,651-407-6100,"Nia Salas",,NULL
+7286,2,"Midnight Basketball","Sports/ Kids (Coach at Youth Basketball Camp)","398 Irving Ave.","San Jose",CA,95728,,,408-315-3962,"Scott Peters",,NULL
+7288,2,"Edgewood House School","Sports/ Kids (Working with children: reading stories, painting & supervising)",,,,,,,650-424-1315,"Tanya Stabinsky",,NULL
+7289,10,"Paly Christmas Tree Lot","General/ Community (Sale person & Help guide people through the tree lot)","50 Embarcadero Rd.","Palo Alto",CA,94301,,,853-0456,"Kristine Peterson",,NULL
+7290,2,"Palo Alto Midnight Basketball","Sports/ Kids (Coach at Youth Basketball Camp)","398 Irving Ave.","San Jose",CA,95728,,,408-315-3962,"Scott Peters",,NULL
+7291,2,"Stanford All-Sports Camp","Sports/ Kids (Volunteer Camp Counselor)","641 E. Campus Dr.",Stanford,CA,94305,,,650-725-0745,"Pam Mahlow",,NULL
+7294,1,"Stretch To Kindergarten","Education (Classroom Assistant, Interacting & Supervising children)","P.O. Box 391597","Mountain View",CA,94039,,,650-464-6307,"Liz Simons/ Betsy Nikolchev",,NULL
+7296,10,"Parents Association of Just Dance","General/ Community (Fundraising: sales flowers & tickets)","2612 Union Ave. ","San Jose",CA,95124,,,650-799-5008,"Krasty Smale",,NULL
+7297,10,"Paly Sports Boosters","General/ Community (Tree Tying)","50 Embarcadero Rd.","Palo Alto",CA,94301,,,650-329-1349,"Yina Bono",,NULL
+7299,2,"Stanford Camps Recreation Association","Sports/ Kids (Volunteer at Timing & Swimming in swim meet & Dinner clean up)","875 Bowdoin ",Stanford,CA,94305,,,650-736-7272,"Andrea Barnes",,NULL
+7302,2,"JLS Wrestling","Sports/ Kids (Coach Middle School Wrestling)","480 E. Meadow","Palo Alto",CA,,,,650-219-6383,"Bravmon Creighton",,NULL
+7303,9,"Bay Scouts of America","Food/ Shelter (Drop off & pick up scouting for food & Memorial Flag Decorating) ","1305 Middlefield Rd.",,,,,,650-743-9051,"Harry Vertelney",,NULL
+7304,10,TEAM,"General/ Community (Luna volunteer)","50 Embarcadero Rd.","Palo Alto",CA,94301,,,650-722-0393,"Linn Hori",,NULL
+7305,1,"California Family Foundation","Education (Classroom Assistant)","3201 Ash St.","Palo Alto",CA,94306,,,650-424-9753,"Meralin Anderson",,NULL
+7306,10,"Key Club","General/ Community (Fasting for Awareness)","50 Embarcadero Rd.","Palo Alto",CA,94301,,,,"Erica Ji",,NULL
+7307,1,"Palo Alto Summer School ","Education (Classroom Assistant)","Fairmeadow Elementary School (500 E. Meadow Dr.)","Palo Alto",CA,94306,,,650-329-3769,"Melissa Fassler/ Wendy Velez",,NULL
+7309,10,"Paly YCS-Interact","General/ Community (Moonlight Run Event volunteer)","50 Embarcadero Rd.",,CA,94301,,,650-329-3710,"Hannah Kim",,NULL
+7310,5,"Senator Joseph Simitian","Civic Engagement (Internship)","160 Tounano Country Village","Palo Alto",CA,94301,,,650-688-6384,"Tyler Haskell",,NULL
+7312,2,"Palo Alto Little League (Royals Coach Pitch Baseball Team)","Sports/ Kids (Coach Assistant: help at practices & games)","3672 Middlefield Rd.",,CA,94303,,,,"Rich Pearson",rich.pearson@yahoo.com,NULL
+7313,7,"Med Share","Health Care/ Safety (Sorting Medical Supplies)","2937 Alvarado St.","San Leandro",CA,94577,,,510-567-7070,"Terry Monday",,NULL
+7314,10,"Boys & Girls Club of The Peninsula","General/ Community (Recruiting, meeting, games & clinics)","1109 Hilton St.","Redwood City",CA,,,,650-587-9370,"Peter Portchborgh",,NULL
+7315,8,"EUO, RSC6","Humanitarianism (Wyclet Jean Campaign- HAITI)","200 Madison Ave.",N.Y.,NY,10016,,,212-367-6800,"Allison Pinter",,NULL
+7316,2,"Palo Alto Water Polo","Sports/ Kids (Helping run a tournament)","50 Embarcadero Rd.",,CA,94301,,,650-740-2936,"Cory Olcott",,NULL
+7317,10,"USA Works Fob Foundation ","General/ Community (fundraising)","2124 Main St. Suite 240","Huntington Beach",CA,,,,714-500-5449,"Jenny Stephanepolous",,NULL
+7318,7,"Agile Physical Therapy","Health Care/ Safety (Nemaline Myocathy Fundraiser)","2450 El Camino Real #101","Palo Alto",CA,,,,650-565-1706,"Marc Guiliet",,NULL
+7319,3,"National Senior Games Association","Senior/ Disabled (Triple & Long Jump Pit)","Baton Rouge",LA,,,,,713-853-8777,"Baird Lloyd",,NULL
+7320,2,"AYSO (American Youth Soccer Organization)","Sports/ Kids (Coach Assistant for soccer practices & games)","CVPA, Palo Alto AYSO P.O. Box 1493","Palo Alto",CA,94302,,,,"Aznur Mohamed",volunteer-coord@ayso26.org,NULL
+7321,10,"Summer's Best 2 Weeks","General/ Community (Summer Camp Work Crew: served meals, cleaning camp facilities)","111 Lake Gloria Rd. ",Boswell,PA,15531,,,814-629-9744,"Kristin Conrad",,NULL
+7322,6,"Global Works","Home/Construction (Community Renovation Project in Costa Rica: building for new school room, construction works & cleaning)","2342 Broadway",Boulder,CO,80304,,,303-545-2202,"Erik Werner",,NULL
+7323,7,"Stanford University Dept. of Neurology ","Health Care/ Safety (Assistant in Lab work & duties)","Steinmam Lab Beckman Center B002 279 Campus Dr.",Stanford,CA,94305,,,650-723-7295,"Dr. Hedwich Kuipers",,NULL
+7324,10,"Sea Scout Ship Intrepid","General/ Community (selling X-mas Trees for Scouts)","675 Seaport Blvd.","Redwood City",CA,,,,650-714-5191,"Ken Shupe",,NULL
+7325,10,"Haymarket Theater","General/ Community (Theater Stage Tech building & control)","50 Embarcadero Rd.",,CA,94301,,,650-329-3857,"Kathleen Woods",,NULL
+7326,10,"PALY Environmental Initiative Club","General/ Community (Club meeting & Lunch Activity)","50 Embarcadero Rd.","Palo Alto",CA,94301,,,650-380-8787,"Shirley Tokheim",,NULL
+7327,10,"Friendship Circle","General/ Community (Training session & Friend at home events)","3900 Fabian Way","Palo Alto",CA,94303,,,650-858-6990,"Ezzy Schosteimen ",,NULL
+7328,4,"Creek & River Clean Up","Animal/ Environment (Creek Clean Up)","316 Emerson Ave. ","Palo Alto",CA,94306,,,650-704-8608,"Jim McCarthy",,NULL
+7329,4,Greenwaste,"Animal/ Environment (Greenwaste at Glass Festival in Palo Alto)","2000 Geng Rd.","Palo Alto",CA,,,,650-799-3213,"Zea Luce",,NULL
+7331,6,"Parents Nursery School","Home/Construction (School Maintenance) ","2328 Louis Rd.","Palo Alto",CA,94303,,,650-856-1440,"Ying Wang",,NULL
+7332,4,"Palo Alto Parks & Recreation","Animal/ Environment (Fixing Turf at Heritage Park)","Homer & Bryant","Palo Alto",CA,,,,650-329-2366,Granger,,NULL
+7333,10,"El Camino Hospital Foundation","General/ Community (Traffic Cop & Gifts Runner)","2500 Grant Rd.","Mountain View",CA,94040,,,650-940-7000,"Mader Chaleff",,NULL
+7334,2,"Oshman Family Jewish Community Center","Sports/ Kids (Counselor Training, teach kids in swimming, interact & supervise kids in camp projects)","4000 Middlefield Rd. Building R","Palo Alto",CA,94303,,,650-493-9400,"Whitney Pollack",,NULL
+7336,10,"Volunteered with Gohns & Colitis Foundation","General/ Community (Set up, served & cleaned up Water Stations in Rock & Roll Half Marathon Fund Raiser)",,"San Jose",CA,,,,646-717-6205,"Breanne Long",,NULL
+7338,10,"Jewish Community Teen Foundation","General/ Community (Leadership council: meeting, fundraising & interview potential members)","3921 Fabian Way",,,,,,852-9020,"Gillad Salmon",,NULL
+7339,10,"Paly College & Career Center (CCC)","General/ Community (Helping with Get Involved)","50 Embarcadero Rd.","Palo Alto",CA,94301,,,650-329-3877,"Christina Owen",,NULL
+7341,10,"Gamble Garden","General/ Community (Halloween Party at Gamble Garden)","1431 Waverley St.","Palo Alto",CA,94301,,,949-5306,"Jill Soltau",,NULL
+7342,10,"Paly Theatre Fundraising","General/ Community (Paly Theatre Fundraising)","50 Embarcadero Rd.","Palo Alto",CA,94301,,,650-329-3857,"Kathleen Woods",,NULL
+7343,1,"Paly Math Club (Middle School Math Camp)","Education (Helped Students with Math Problems)","50 Embarcadero Rd.","Palo Alto",CA,94301,,,650-329-3845,"Suzanne Antinle",,NULL
+7344,10,"Paly Link Crew","General/ Community (Orientation)","50 Embarcadero Rd.","Palo Alto",CA,94301,,,650-329-3856,"Micheal Najar",,NULL
+7345,7,"John Hopkins University","Health Care/ Safety (Lab & Office Volunteer)","600 North Wolfe St.",Baltimore,MD,,,,"410-955-2159/ 410-502-5252","Ellen Tully/ Dr. Gabrielson/ Dr. Woo",,NULL
+7346,3,"Lytton Gardens","Senior/ Disabled (Volunteer for friendship, entertainment & intellectual stimulation to seniors)","437 Webster St.","Palo Alto",CA,94301,,,650-617-7367,"Bethany Dinh",bdinh@lyttongardens.org,NULL
+7347,1,"Mith Inkvisition Summer School","Education (Teacher Assistant)","800 Barron Park Ave.","Palo Alto",CA,94306,,,650-858-0508,"Melissa Faussler Hauer",,NULL
+7348,10,"Stanford University Medical Center Auxiliary","General/ Community (Gift Shop)","300 Pasteur Dr. Room H1130E",Stanford,CA,94305,,,650-723-6636,Epardle,,NULL
+7350,9,"Urban Ministry Food Closet","Food/ Shelter  ","425 Hamilton Ave.","Palo Alto",CA,,,,650-325-3663,"Pat Keicher",,NULL
+7351,10,"Paly Key Club","General/ Community (Multi-events Volunteer: Moonlight Run, Palo Alto RFL-set up, walking & stand helper, Fundraising & FOPAL Book sale)","50 Embarcadero Rd/","Palo Alto",CA,94301,,,650-868-3859,"Kevin Hu",,NULL
+7352,2,"Palo Alto Elite Volleyball Club","Sports/ Kids (Coach Assistant)","2702 Waverley St.","Palo Alto",CA,94306,,,650-248-1222,"Craig Bankowski",,NULL
+7353,1,"Addison Elementary","Education (Teacher Assistant: correcting, grading, creating & helping in teacher works)","650 Addison Ave.","Palo Alto",CA,94301,,,650-322-5935,"Joanne Conner",,NULL
+7354,4,"Peninsula Humane Society","Animal/ Environment (Feeding Baby Birds)","4000 Middlefield Rd. Building V",,,,,,650-494-7283,"Maris Brenn-White",,NULL
+7355,3,"Sunrise Assisted Living","Senior/ Disabled (Assisting Senior Citizens)","2701 El Camino Real",,,,,,650-326-1108,"Karen Lerner",,NULL
+7356,1,"Palo Alto High School (ARC)","Education (Tutoring)","50 Embarcadero Rd.",,CA,94301,,,650-329-3710,"Noel Beltler",,NULL
+7357,10,"PTA Council (Art)","General/ Community (Jamboree Volunteer)",,,,,,,,"Roxane Mehta",,NULL
+7358,10,"Paly PTSA","General/ Community (Back to School Packet Stuffing)",,,,,,,,"Rebecca Fox",,NULL
+7359,1,"International School of the Peninsula","Education (Camp Councilor)","151 Laura Lane","Palo Alto",CA,94304,,,650-251-8500,"Margam Shabani",,NULL
+7360,7,"Stanford University Steinman Lab","Health Care/ Safety (Lab Volunteer: moving things, helping researchers, performing simple tacks, etc...)","Beckman Center, Stanford University School of Medicine",Stanford,CA,,,,650-723-6757,"Lawrence Steinman",,NULL
+7361,9,"Palo Alto Farmers' Market","Food/ Shelter  (Farmers Market volunteer)","Parking Lot G, Gilman St","Palo Alto",CA,,,,,"Nancy Pleibel",,NULL
+7362,10,"Menlo Park Presbyterian Church (MPPC)","General/ Community (Mini Day Camp Drama Team) ","950 Santa Cruz Ave.","Menlo Park",CA,94025,,,650-323-8625,"Jessica Schmidt",,NULL
+7363,7,"Red Cross (Safe ride)","Health Care/ Safety (Safe ride Volunteer)","400 Mitchell Lane",,,,,,877-753-7433,"Talayeh Ghezel",,NULL
+7364,9,"Glide Memorial","Food/ Shelter (Serving & Bagging Breakfast & Lunch) ","330 Ellis St.","San Francisco",CA,94102,,,415-674-6000,R.F,,NULL
+7365,10,"New Creation Home Renovation","General/ Community (Organized & Cleaned Garage & Office)","781 Avelar ","East Palo Alto",CA,94303,,,650-740-1301,"Terry Robertson",,NULL
+7366,7,"Freedom Run","Health Care/ Safety (Freedom Run for Human Trafficking Awareness & Prevention)","Oak Knoll Elementary School, 1895 Knoll Lane","Menlo Park",CA,94025,,,703-342-6763,"Reagan Thompson",,NULL
+7367,1,"Sam Camp-EPA (Brentwood School)","Education (Tutored & Mentored Elementary Children in EPA)","400 N. Winchester Blvd.","Santa Clara",CA,95050,,,650-303-2063/408-261-0613,"King Anderson/Kathy Berggren",,NULL
+7372,10,"Anti-Defamation League","General/ Community (Registration)","720 Market St.","Palo Alto",CA,94301,,,"415-981-3500 ex 230","Josh Rosenberg",,NULL
+7374,1,"Paly ARC (Academic Resource Center)","Education (Tutoring)","50 Embarcadero Rd.","Palo Alto",CA,94301,,,650-329-3846,"Noel Beitler",,NULL
+7376,1,"Jordan Middle School Math Club","Education (Teaching, helping & Running Math Club & Contests)","750 N. California Ave.","Palo Alto",CA,94303,,,650-213-0211,"Elinor Slack",,NULL
+7377,10,"Chinmaya Mission West","General/ Community (Washing Dishes & Filling up water bottles)","P.O. Box 129",Piercy,CA,95587,,,305-279-8456,"Prakash Bettadapur",,NULL
+7378,1,"Zero Gravity Tech Challenge Team","Education (Build Electromagnet, Manage Test Trials & Clean up) ","1656 Channing Ave.","Palo Alto",CA,94303,,,650-430-6146,"Xiangzhou Wang",,NULL
+7379,10,"Paly Robotics Club","General/ Community (Administration: set up classes & meetings schedule, contact members & techshop)","50 Embarcadero Rd.","Palo Alto",CA,94301,,,650-329-3880,"Doug Bertain",,NULL
+7380,10,"Chinmaya Mission San Jose","General/ Community (Curfew management, Writing & Editing Script, Stage set up, Pop building, Clean up)  ","1050 Park Ave.","San Jose",CA,95126,,,408-998-2793,"Aruna Natraj",,NULL
+7381,10,"Palo Alto YMCA","General/ Community (Training)","3412 Ross Rd.","Palo Alto",CA,94303,,,650-856-9622,"Melissa Bryer",,NULL
+7382,9,"InnVision Food Closet","Food/ Shelter (Serving, Packing & Computer Works) ","425 Hamilton Ave.","Palo Alto",CA,94301,,,650-325-3663,"Shirley Reiter",,NULL
+7383,4,"Paly Environmental ","Animal/ Environment (Bayland Clean Up)","1329 Waverley St.","Palo Alto",CA,94306,,,650-380-8787,"Micheal Abrarns",,NULL
+7384,10,"Walter Hays Book Fair","General/ Community (Helping Girl Scouts with gift wrapping & bookfair clean up)","1525 Middlefield Rd.","Palo Alto",CA,94301,,,650-321-1110,"Melissa Look",,NULL
+7385,10,"Job Train","General/ Community (Administration & Child Day Care Works)","1200 O'Brien Dr. ","Menlo Park",CA,94025,,,650-330-6419,"Rebecca Gourevitch",,NULL
+7386,4,"Palo Alto Junior Museum & Zoo","Animal/ Environment (Animal Training & Critter Talks)","1451 Middlefield Rd.","Palo Alto",CA,94301,,,650-329-2111,"Alex Hamilton",,NULL
+7387,2,"YMCA Girls Basketball","Sports/Kids (Practices)","3412 Ross Rd.","Palo Alto",CA,94303,,,650-856-9622,"Jeremy Johnson",,NULL
+7388,2,"YMCA   ","Sports/ Kids (YMCA Child-watch)","3412 Ross Rd.","Palo Alto",CA,94303,,,650-842-7165,"Samina Syed",,NULL
+7389,10,"Duveneck PTA","General/ Community (Administration & Meetings for events)","705 Alester Ave.",,,,,,415-322-6946,"Lauren Barley",,NULL
+7390,7,"Palo Alto Red Cross","Health Care/ Safety (Safe ride Volunteer)","400 Mitchell Lane","Palo Alto",CA,,,,650-688-0415,"Emma Ruder",,NULL
+7391,2,"Kinderhaus Am Hochwald","Sports/Kids (Helping in Daycare Group)","Nachtflugelweg 16, 01324 Dresden",,,,Germany,,011-49-350-268-7877,"Carola Geyer",,NULL
+7392,1,"PAUSD Summer School Program","Education (Teacher Aid in 4th Grade Math Intervention Class ","Fairmeadow Elementary School (500 E. Meadow Dr.)","Palo Alto",CA,94306,,,650-833-4202,"Melissa Fassier",,NULL
+7393,10,"Palo Alto High School (CCC)","General/ Community (Database formating, Volunteer for Paly Get Involved, Magazine Organization)","50 Embarcadero Rd.","Palo Alto",CA,94301,,,650-329-3877,"Christina Owen",,NULL
+7398,3,"Marine-Science Institute",,,,,,,,650-369-2760,"Aaron Tinker",,NULL
+7400,1,PALY-Debate,,,,,,,,650-307-2018,"Jennie Savage",,NULL
+7401,7,"CISV San Francisco",,,,,,,,650-400-9762,"Tracey Fecher",,NULL
+7402,2,"Stanford Hospital Auxillary",,,,,,,,650-723-6636,"Margie Lee",,NULL
+7403,9,"City of Palo Alto Summer Excellent Adventure Camp",,,,,,,,650-46304953,"Minka Vanderzwaag",,NULL
+7404,1,PALY-ARC,,,,,,,,,,,NULL
+7405,4,"Columbia University College of Physicians + Surgeons",,"630 west 168th st.","New York",NY,10032,,,917-804-0783,"Dominique Toran-Allerand",,NULL
+7408,1,"Camp Jawonga",,"131 Steavit Street, Suite 460 ","San Francisco",CA,94105,,,415-543-2267,"Aaron Mandel",,NULL
+7409,2,"Lucille Packard Children's Hospital",,,,,,,,650-497-8820,"Regina Harnish",,NULL
+7410,6,"St. Marks",,"606 Colorado Avenue","Palo Alto, ",CA,94306,,,650-326-3800,"Liz Graves",,NULL
+7416,3,"Friends of Foothill Park",,,,,,,,,,,NULL
+7417,4,"PAUSD summer school",,,,,,,,,,,NULL
+7418,10,"PALY-key club",,,,,,,,,,,NULL
+7420,4,"St. Elizabeth Seton Elementary School",tutoring,"1095 Channing Ave. ","Palo Alto",CA,94301,,,650-326-9004,"Teresa Lund",,NULL
+7423,2,"Stanford University Medical Center Auxillary",,,,,,,,650-723-6636,"Bitty Cowart",,NULL
+7424,3,"Westwind horse ride",,,,,,,,,,,NULL
+7426,6,"Relief Spark",,"236 Tullulah Avenue","River Ridge ",CA,70123,,,504-377-7854,"Sidney Ray",,NULL
+7427,7,"Santa Clara Community Center",,"224 Centre Pointe Dr.",Milpitas,CA,,,,408-262-7325,"Naureen Patel",,NULL
+7428,6,"Home base CCC",,"870 Market Street, Suite 1228","San Francisco",CA,94102,,,415-788-7961,"Kevin Knapp, Marty Fleetwood, Beth Thenault",,NULL
+7429,9,"Grass Roots Soccer",,"198 Gherch Street",Norwich,VT,5055,,,802-649-2900,"Brooke Rosenbomer",,NULL
+7432,1,Tzuchi,,,,,,,,,,,NULL
+7434,2,"Stanford University Dept of Biology",,,,,,,,650-723-2227,"Tim Gulbertson, Virginia Walbot",,NULL
+7435,10,"PALY-In focus TV network",,,,,,,,650-329-3831,"Mike McNulty",,NULL
+7438,4,"PALY-christmas Tree lot",,,,,,,,650-722-4470,"Nick Peterson",,NULL
+7439,2,"Safe Ride ",,"400 Mitchell Lane","Palo Alto","CA ",,,,877-753-7433,"Steve Rooks",,NULL
+7440,7,"Media Center",,,,,,,,,,,NULL
+7441,1,"Girl Scouts",,,,,,,,650-968-8396,"Suzanne Bell",,NULL
+7445,4,"PALY-CCC(Get Involved)",,,,,,,,,,,NULL
+7447,1,"Common Ground Relief",,"1800 Deslovele St.","New Orleans",LA,,,,504-942-3737,"Sam Freidhof",,NULL
+7448,4,"Jewish community Service-BBYO",,"14855 Oka Road","Los Gatos",CA,,,,408-357-7426,"Jill Pottel",,NULL
+7449,8,"Amigos de Palo Alto",,,,,,,,650-493-4300,"Mariateresa Torres",,NULL
+7450,6,"PALY-Smile CharityClub",,,,,,,,650-327-8630,"Kaye Paugh",,NULL
+7451,9,"Senior Games-Bay Area",,,,,,,,,,,NULL
+7452,4,PAUSD-Escondido,,"890 Escondido Road","Palo Alto",CA,,,,650-856-1337,"Jalynn Kiger",,NULL
+7454,2,"Red Cross",,,,,,,,,,,NULL
+7455,1,PALY-YCS,,,,,,,,,,,NULL
+7456,2,Learnika,,"572 College Avenue","Palo Alto",CA,,,,650-248-2800,"Novlorlia de la Chica",,NULL
+7457,4,"PALY-Mrs. Choy",,,,,,,,,,,NULL
+7458,6,"Friends of the Poor",,"P.O. Box 60506","Palo Alto",CA,94306,,,650-269-2862,"Dan Marshall",,NULL
+7459,4,"Abode Inc",,"588 Brown Road","Fremont ",CA,,,,"510-252-0910 X11","Mary Little",,NULL
+7460,4,"Christian Music Theatre",,"3149 Waverley Street","Palo Alto",CA,94306,,,650-494-1212,"Karen Salveson",,NULL
+7461,10,"Plantronics Inc."," ","345 Encinal St. ","Santa Cruz",CA,95060," "," ",831-222-7983,"Cathy Pell"," ",NULL
+7462,10,"Individual Project"," ","36608 Mulberry Street",Newwark,CA,94560," "," ",510-284-9979,"Alma Huifta",NULL,NULL
+7463,9,"Milpitas Food Pantry"," ","196 S. Main Street",Milpitas,CA,95035," "," ",408-946-5564,"Christina Owen",NULL,NULL
+7464,10,"Creative Montessori"," ","1421 Bay Eoad","East Palo Alto",CA,94302,USA," "," "," ",NULL,NULL
+7465,10,"Blossom Birth"," ","299 S. California Ave. ","Palo Alto",CA,94306," "," ",650-321-2326,Mora,NULL,NULL
+7466,10,"Congregation Beth David"," ","19700 Prospect Road","Saratoga ",CA,95070," ",NULL,408-257-3333,"Irene Swedroe",NULL,NULL
+7467,10,"Medaka no Gakko"," ","2751 Louis Road","Palo Alto","CA ",94303," ",NULL,650-493-0780,Medaka,NULL,NULL
+7469,4,"Half Moon Bay Restoration"," ","95 Kelly Avenue","Half Moon Bay",CA,94019," ",NULL,650-726-8801,"Kenneth Robert",NULL,NULL
+7470,10,"Chinese Community Center-PAlo Alto"," Palo Alto","59 Morton Way","Palo Alto",CA,94303," "," ",650-856-8846,"John Yee",NULL,NULL
+7471,1,"Piccolo Preschool"," ","888 Boyce Ave. ","Palo Alto",CA,94301,NULL,NULL,650-323-9668,"Mechele Pruitt",NULL,NULL
+7472,10,"Far East Living"," ","540 University Avenue","Palo Alto",CA,94301,NULL,NULL,650-283-2800,"Ester Shih",NULL,NULL
+7473,1,"Hoover Elementary School"," ","445 E. Charleston Road","Palo Alto",CA,94306,NULL,NULL,650-320-8106,"Susanne Scott",NULL,NULL
+7474,9,"St. Christopher Youth Ministry",NULL,"2278 Booksin Avenue","San Jose",CA,95125,NULL,NULL,408-265-3230,"Robbie Ocampo",NULL,NULL
+7475,10,"Dr. Ian Pun/ Dr. Christina W",NULL,"4040 Rinch Ave. East","Scarborough ",Ontario,"M1S 4V5",Canada,NULL,416-818-7788,"Dr. Ian Pun",NULL,NULL
+7476,10,"Erindale Medical Center",NULL,"1101 McBride Ave.",Missisauga,Ontario,"L5C 1M 6",Canada,NULL,905-273-3797,"Dr. Stephen Lo.",NULL,NULL
+7477,2,"Penninsula Youth Sailing Foundation",NULL,"1200 Chesapeake Dr.","Redwood City","CA ",94063,USA,NULL,650-854-1048,"Eric Anderson",NULL,NULL
+7478,2,"Stanford Sailing Camp",NULL,"300 Cardinal Way","Redwood City",CA,94061,NULL,NULL,650-387-2674,"John Vandemoer",NULL,NULL
+7479,2,"Youth Family Enrichment",NULL,"1305 Middlefield Road","San Carlos",CA,94070,NULL,NULL,650-591-9623,"Merle Saber",NULL,NULL
+7480,10,"Camp Oljato","Boy Scouts","P.O. Box 217",Lakeshore,CA,NULL,NULL,NULL,559-893-3393,"John Crouch",NULL,NULL
+7481,1,"Cornerstone Korean School",NULL,"1057 E. Meadow Circle","Palo Alto",CA,94305,USA,NULL,650-269-0162,"Hyekyong Chang",NULL,NULL
+7482,1,"California Youth Symphony",NULL,"441 S. California Ave. ","Palo Alto",CA,94306,NULL,NULL,650-326-6666,"Padma Gargeya",NULL,NULL
+7483,10,"Stern Grove Festival Association",NULL,"44 Page St. Suite 600","San Francisco",CA,94102,NULL,NULL,415-252-6253,"Jessica Zeidman",NULL,NULL
+7484,10,"Boy Scouts of America-Troop 57",NULL,"159 Tennyson Ave.","PAlo Alto",CA,94301,NULL,NULL,650-269-7407,"Simon Fox",NULL,NULL
+7485,4,"Curi Odyssey",NULL,"1651 Coyote Point Dr. ","San Mateo",CA,94403,USA,NULL,650-340-7589,"Alex Ridyard/Niki",NULL,NULL
+7486,3,"Friends of Children with Special Need ",NULL,"2300 Perslta Blvd.","Fremont ",CA,94536,NULL,NULL,510-473-2768,"Albert Wu",NULL,NULL
+7487,4,"Oregon Green Homeowners Association",NULL,"353 Main St.","Redwood City","CA ",94063,NULL,NULL,650-269-3486,"Camille Townsend",NULL,NULL
+7488,10,"St. Clare's Parish (San Jose Chinese Catholic Community)",NULL,"725 Washington St.","Santa Clara",CA,95050,USA,NULL,650-906-7158,"Patrick Ku",NULL,NULL
+7489,9,"Village HArvest",NULL,"P.O. Box 9231","San Jose",CA,95157,USA,"Karen Hurst/Chriolet Casjess",888-378-4841,NULL,NULL,NULL
+7490,9,"Community Sevice Agency",NULL,"204 Stierlin Rd.","Mountain View",CA,94043,NULL,NULL,"650-968-0836 X 150","LaDrea Clark",NULL,NULL
+7491,9,"Silicon VAlley Turkey Trot",NULL,"244 Airport Pkwy, suite 620","San Jose",CA,95110,USA,NULL,530-219-0422,"Melissa Burke",NULL,NULL
+7492,10,"University Luther Church",NULL,"1611 Stanford Ave.","Palo Alto",CA,94303,USA,NULL,650-857-9660,"Pastor Gwen Schafer ",NULL,NULL
+7493,7,"Cystic Fibrosis Research Inc",NULL,"2672 Bayshore Pky, Suite 520","Mountain View",CA,94043,USA,NULL,650-404-9975,"Mary Convneto",NULL,NULL
+7494,7,"Palo Alto Fire Department",NULL,"711 Serra","PAlo Alto",CA,94301,NULL,NULL,650-329-2649,"Shane Yarbrough",NULL,NULL
+7495,10,"YMCA Camp Campbell",NULL,NULL,"Boulder Creek",CA,95006,NULL,NULL,831-338-2128,"Danny Koba",NULL,NULL
+7496,1,"Family Center Summer Program",NULL,"422 Hibiscus Ct.","East Palo Alto",CA,94303,USA,NULL,650-421-5531,"Josefina Guillen",NULL,NULL
+7497,1,"Adventures in Missions",NULL,"6000 Wellspring Trail",Gainesville,GA,30506,NULL,NULL,800-881-2461,"Stephen Chen",NULL,NULL
+7498,4,"Independent Project + Reflection with Jerry Rice",NULL,"1625 Middlefield Road","Palo Alto",CA,94301,NULL,NULL,650-326-5719,"Jerry Rice",NULL,NULL
+7499,4,"UTU Social Ventures (UCLA Semel Institute Global Center)",NULL,"5060 Hood Dr.","Woodland Hills",CA,91364,NULL,NULL,310-794-8117,"Diane Flannery",NULL,NULL
+7500,10,"SV2 (Silicon Valley social venture fund)",NULL,"P.O.Box 1792","Los Altos",CA,94023,NULL,NULL,650-714-3454,"Lindsay Lonie",NULL,NULL
+7501,10,"Plantionics Inc.",NULL,"345 Encinal St.","Santa Cruz",CA,NULL,NULL,NULL,831-227-7983,"Cathy Pell",NULL,NULL
+7502,10,"Greene Academy of Irish Dance",NULL,"2612 Union Avenue","San Jose",CA,95124,NULL,NULL,650-521-4875,"Lyna Carey",NULL,NULL
+7503,2,"Atherton Lacrosse",NULL,"El Camino Real & Page Mill Exp","Palo Alto",CA,94303,NULL,NULL,510-468-1175,"Greg Mengis",NULL,NULL
+7504,2,"Lax & Learning",NULL,"1286 Runnymede St.","East Palo Alto",CA,94303,NULL,NULL,650-814-7694,"Mark Danm",NULL,NULL
+7505,4,"Taylor Farm",NULL,"825 Route 11",Londonderry,VT,NULL,NULL,http://www.taylorfarmvermont.com/,802-379-2296,"Jonathan H. Wright",NULL,NULL
+7506,8,Pratham,NULL,"1203-06 Arcadia, 195 NCPA","Nariman Point",Mumbai,400021,India,pratham.org,91-161-4618549,"Bharatdeep Singh Malhi",NULL,NULL
+7507,3,"La Comida Avenidas",NULL,"450 Bryant St. ","Palo Alto",CA,94301,USA,NULL,650-322-3742,"Mary Ruth ",NULL,NULL
+7508,2,Roadrunnersportsclub,NULL,NULL,"palo alto",ca,NULL,NULL,NULL,650-796-3833,"Curtis Huggins/ Bruce Powell",NULL,NULL
+7509,1,"SEAN (Student Equity Action Network)"," ","1605 Mariposa Ave","Palo Alto",Ca,94306,NULL,NULL,650-804-1634,"Tremaire Kirkman",NULL,NULL
+7510,1,"VBS Summer School",NULL,"92 Stern Vita Ave.","Mountain View",CA,94043,NULL,NULL,650-968-2900,"Shirley Chen",NULL,NULL
+7511,7,"Asian Liver Center – Youth leadership conference","Stanford University","300 Pasteur Dr.","Palo Alto",CA,94301,NULL,NULL,650-725-6467,"Alina Wong / Diana Ngo",NULL,NULL
+7512,7,"Life Guarding at Rincanada Pool",NULL,"777 Embarcadero Rd.","Palo Alto",CA,94303,NULL,NULL,650-329-2351,"Kristin Molano",NULL,NULL
+7513,2,"Brighton Sleep Away Camp",NULL,"231 Middlefield Rd.","Palo Alto",CA,94303,USA,NULL,650-345-2980,"Carly Hao",NULL,NULL
+7514,8,"Peninsula Young Life",NULL,"1900 Embarcadero Rd.#110","Palo Alto ",CA,94303,USA,NULL,650-813-5290,"Avdrey Bloomgren",NULL,NULL
+7515,10,"Palo Alto High School Jade Ribbon Campaign Club",NULL,"50 Embarcadero","Palo Alto",CA,94301,NULL,NULL,NULL,"Abraham Chung",NULL,NULL
+7516,10,"PAlo Alto Medical Foundation",NULL,"701 E. Elcamino Road","Palo Alto",Ca,94040,NULL,NULL,650-934-7353,"Kelly McConnell",NULL,NULL
+7517,10,"KMVT Community Television",NULL,"1400 Terra Bella Ave, Suite M","Palo Alto",CA,94043,NULL,NULL,650-968-1540,"Bobby Chastain",NULL,NULL
+7518,10,"San Mateo Public Library",NULL,"55 W. Third Ave.","Palo Alto",CA,94402,USA,NULL,650-522-7801,"Donna Divodi",NULL,NULL
+7519,3,"Organization for Special Need Families",NULL,"20920 McClellan Rd.",Cupertino,CA,95014,USA,NULL,408-996-0850,"Lihuei Wei",NULL,NULL
+7520,10,"Hope Musical Theatre",NULL,"P.O. Box 365","Palo Alto",CA,NULL,USA,NULL,650-568-3332,"Sarah Hope",NULL,NULL
+7521,7,"Second Mile","Second Mile","2086 Clark Avenue","East Palo Alto",CA,94303,USA,NULL,650-269-4926,"Emilee ONeil",NULL,NULL
+7522,7,"KAMSA Youyh Symphony Ochestra",KAMSA,NULL,NULL,NULL,NULL,NULL,http://www.kamsa.org,NULL,"Hyowon Choi",NULL,NULL
+7523,1,"Echelon Gran Fondo",NULL,NULL,NULL,NULL,NULL,NULL,www.echelongrandfondo.org,415-730-1003,"Hunter Ziesing",NULL,NULL
+7524,1,"Peninsula Democratic Coalition ",NULL,"P.O. Box 97","Los Altos",CA,94023,NULL,NULL,650-949-1009,"Shoup Park",NULL,NULL
+7525,1,"Palo Alto International Flim Festival",,"431 florence St. Suite 200","Palo Alto",CA,94301,NULL,NULL,650-641-8974,"Ashim Ahuja",NULL,NULL
+7526,6,"Mi CASA Builders",NULL,"71 Encino Road",Atherton,CA,94027,NULL,NULL,650-867-4859,"Ken Lapoint",NULL,NULL
+7527,1,"Oregon Green HOA",NULL,"2450 W. Bayshore Road","Palo Alto",CA,94303,NULL,NULL,650-493-3410,NULL,NULL,NULL
+7528,1,"Zoma Worldwide Internship",NULL,"2942 Clara Drive","Palo Alto",CA,94303,NULL,NULL,650-241-9662,"Sherry Chuang",NULL,NULL
+7529,2,"Unit of Day Care Center",NULL,"Levinski 108",Tel-Aviv,NULL,NULL,Isarel,NULL,054-782-3265,"Efrat Nir",NULL,NULL
+7530,4,"Sulphur Creek Nature Center",NULL,"1801 D. St.",Hayward,CA,94507,USA,NULL,510-881-6749,"Gracie Stafford",NULL,NULL
+7531,7,"California Explorer Search & Rescue",NULL,"205 De Anza Blvd.","San Mateo",CA,94402,USA,NULL,650-340-4779,"Ken Buscho",NULL,NULL
+7532,2,"Tomahawks/ Nor. Cal. Lacrosse Club",NULL,"P.O. Box 60613","Palo Alto",CA,94306,USA,NULL,"510-468-1175X 88","Greg Mengis",NULL,NULL
+7533,3,"TECHHeroes/ Heroic Imagination Project",NULL,"220 Halleck St. Suite G100","San Francisco",CA,94129,USA,NULL,415-800-7745,"Jennifer Donegan",NULL,NULL
+7534,1,"Bayshore Christian Ministries (SAIL)",NULL,"1001 Beech St. ","East Palo Alto",CA,94303,USA,www.bayshore.org,650-327-9941,"Jocelyn Juliao",NULL,NULL
+7535,10,"Civil Air Patrol","Palo Alto Airport","1925 Embarcadero Road","Palo Alto",CA,94303,USA,NULL,650-283-8259,"Jim Spears",NULL,NULL
+7536,1,"Trung Tam Viet Ngu Van Lang","Gunderson High School ","622 Gaundabert Ln","San Jose",CA,95136,NULL,www.vanlangsi.org,408-486-7085,"Hoang Le",NULL,NULL
+7537,4,"Sociedad Protectora de Animales",,"Pinos #7, col Linda Vista","San Miguel",GTO,NULL,Mexico,NULL,152-6124,"Perla Anai Barrera",NULL,NULL
+7538,10,"Lord's Grace Christian Church",NULL,"1101 San Antonio Rd.","Mountain View",CA,94043,USA,NULL,650-623-0912,"Craig Ing",NULL,NULL
+7539,4,Magic,NULL,"P.O. Box 15894",Stanford,CA,94309,NULL,NULL,650-323-7333,NULL,NULL,NULL
+7540,10,"Groton Long point Women ORg.",NULL,"Groton Long point ",NULL,CT,NULL,NULL,NULL,NULL,"Jean Bittl",NULL,NULL
+7541,8,"Friends of the poor, Tamaho School Project",NULL,"P.O. Box 60506","Palo Alto",CA,94306,NULL,NULL,NULL,NULL,NULL,NULL
+7542,8,"FLY Young Fellowship",NULL,"22 Sec. 4, Roosevelt Rd.",Taipei,NULL,100,Taiwan,NULL,"886-02-2368-2361 x 333","Timothy Hung",NULL,NULL
+7543,10,"Destination Science",NULL,"953 North Elm Street","Orange Conty",CA,92867,NULL,www.destinationscience.org,1-888-909-2822,"Laura Wells",NULL,NULL
+7544,10,"Hiller Aviation Museum",NULL,"601 Skyway Rd.","San Carlos",CA,94070,USA,www.hiller.org,650-654-0200,"Jeffery Bass",NULL,NULL
+7545,9,"Our Daily Bread",NULL,"231 S. Sunset Ave.",Sunnyvale,CA,94086,USA,NULL,408-736-4108,"David Barnes",NULL,NULL
+7546,2,"Diepenbrock Basketball School",NULL,"1180 Orange Avenue","Menlo Park",CA,NULL,NULL,NULL,650-714-1522,"Peter Diapenbrock",NULL,NULL
+7547,10,"Santa Calra University",NULL,"500 El Camino Real","Santa Clara",CA,95053,NULL,NULL,"408-551-3000 X4282","Yoshiko Miyakoshi",NULL,NULL
+7548,4,"Seeds of Empowerment",NULL,NULL,NULL,NULL,NULL,NULL,NULL,650-280-7769,"Paul Kim",NULL,NULL
+7549,4,Startalk,NULL,"520 Galvez Mall, Rm 109",Stanford,CA,94305,NULL,NULL,650-736-9042,"Norman Masuda",NULL,NULL
+7550,10,"Trinity Lutneran Church",NULL,NULL,NULL,NULL,NULL,NULL,NULL,650-853-1295,"Vicar Stephen Preus",NULL,NULL
+7551,10,"Monterey Bay Aquarium",NULL,"886 Cannery Row",Monterey,CA,93940,NULL,NULL,831-648-4867,"Tritia Moneypenny",NULL,NULL
+7552,10,"Visions Service Adventures",NULL,"321 East Main St. #426",Bozeman,MT,59715,NULL,NULL,NULL,"Katherine Dayton",NULL,NULL
+7553,4,"Global Literacy Club",NULL,"50 Embarcadero Road","PAlo Alto",CA,94301,NULL,NULL,NULL,NULL,NULL,NULL
+7554,10,"Stanford Red Barn",NULL,"100 Electimeer Rd.",Stanford,CA,94305,NULL,NULL,650-327-2990,"Vanessa Bartsch",NULL,NULL
+7555,2,"NJB (Nation Junior Basketball Organization)",NULL,"Palo Alto Main gym","Palo Alto",CA,NULL,NULL,njb.org,714-1522,"Peter Dipenbrock",NULL,NULL
+7556,10,"Camp Towonga",NULL,"131 Stewart Street, suite 460","San Francisco",CA,NULL,NULL,NULL,415-543-2267,"Ken Kramarz",NULL,NULL
+7557,10,"Maker Faire",NULL,"San Mateo County Fair ",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7558,10,"Palo Alto Office of Emergency Services",NULL,"250 Hamilton Ave.","Palo Alto",CA,94301,NULL,NULL,650-470-1258,"Rich Mallonee",NULL,NULL
+7559,10,"Rancho de Espanol",NULL,"La Guacima de Alajwela",NULL,NULL,NULL,"Costa Rica",NULL,NULL,NULL,NULL,NULL
+7560,10,"Youth  Organization of Chinese Americans (YOCA)",NULL,"1052 Bryant St.","Palo Alto",CA,94301,NULL,NULL,650-888-4116,"Monica Yeung Arima",NULL,NULL
+7561,2,"Bintang Badminton Academy",NULL,"1365 Genera Dr.","Sunnyvale ",NULL,NULL,NULL,NULL,408-541-1837,"Jason Guarrlao",NULL,NULL
+7562,10,"West Valley Chinese Language School",NULL,"P.O.Box 2383","Sunnyvale ",NULL,94087,NULL,NULL,408-839-7001,"Sandy Leung",NULL,NULL
+7563,2,"Kick, Lead and Dream",NULL,"1225 Portland Ave.","Los Altos",CA,NULL,NULL,NULL,650-996-3056,"Ruma Nigam",NULL,NULL
+7564,10,"Pacific Development & Tech, LLC",NULL,"999 Commercial St. Ste. 205","Palo Alto",CA,94303,NULL,NULL,650-320-8841,"Leonard Trejo, PhD",NULL,NULL
+7565,10,"Bridges Community Church ",NULL,"625 Magdalena Ave.","Los Altos",CA,94024,NULL,NULL,650-949-6052,"Leslie Schneider",NULL,NULL
+7566,10,"American Muslim Voice",NULL,"39675 Cedar Blvd.",Newark,CA,94560,NULL,NULL,650-387-1994,"Samin Sundas",NULL,NULL
+7567,10,"Books and Me Children's Library",NULL,"4600 El Camino Real #205","Los Altos",CA,94022,NULL,http://www.booksandme.org/index_eng.html,650-941-4379,"Monica Hu",NULL,NULL
+7568,8,"Missionaries of Charity",NULL,"54 / AJC Bose Rd.",NULL,NULL,NULL,India,NULL,91-33-2249-7115,"Maria Kar",NULL,NULL
+7569,1,"East Palo Alto Charter School",NULL,"1286 Runnymede St.","East Palo Alto",CA,94303,NULL,NULL,650-614-9100,"Azucena Estrada",NULL,NULL
+7570,1,"Cross Cultural Solutions ",NULL,"2 Clinton Place","New  Rochelle",NY,NULL,NULL,NULL,800-380-4777,"Makafui Amenuvor",NULL,NULL
+7571,4,"B.O.K. Ranch",NULL,"1815 Cordilleras Rd.","Redwood City",CA,94062,NULL,NULL,650-366-2265,"Hannah McDonald",NULL,NULL
+7572,10,"World Runners Silicon Valley",NULL,"667 Cascade Dr.","Sunnyvale ",CA,NULL,NULL,NULL,650-329-7073,"Mark McClenahan",NULL,NULL
+7573,8,"Fundacion Arriba Paraguay",NULL,"Cacique Lambare 415",NULL,NULL,NULL,Paraguay,NULL,595-21-905-883,"Jacqueline Soojin Park",NULL,NULL
+7574,10,"Northern CA TKD Association (NCTA)",NULL,"2020 S.Bascom Ave. #C",Campbell,CA,95008,NULL,NULL,408-246-2000,"Charles Kim",NULL,NULL
+7575,7,"Samsung Hospital ",NULL,"50 Ilwon-dong ",Gangnam-gu,Seoul,135-710,"South Korea",NULL,011-82-2-3410-0406,"Lee Soon Kyu",NULL,NULL
+7576,2,"cholarKids, Egan Junior High",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7577,2,"ScholarKids, Egan Junior High",NULL,"100 W. Portola Ave.","Los Altos",CA,NULL,NULL,NULL,408-203-9946,"Curtis Schneider",NULL,NULL
+7578,1,"Cesar Chavez School Tutoring Program",NULL,"2450 Ralmar Ave.","East Palo Alto",CA,94303,NULL,NULL,650-308-9814,"Cortis Monette",NULL,NULL
+7579,8,"Hefei Children's Welfare Instutite",NULL,"No.129 Fang Wa Rd.",Hefei,Anhui,NULL,China,NULL,011-86-13916348842,"Jian Chen",NULL,NULL
+7580,1,"UCSF-medical center",NULL,"513 Parnassus Ave.","San Francisco",CA,94143,USA,NULL,415-476-8525,"Dr. Eric Huang",NULL,NULL
+7581,8,"Harbin Ziming Volunteer Union",NULL,"266 Heng Yun Hua Yuan Suite A104 NanGang District Harbin",NULL,NULL,NULL,China,NULL,"011 8945005216","Yujia Li",NULL,NULL
+7582,4,"Kids Love Horses",NULL,"2130 Birch St.","Palo Alto",CA,NULL,NULL,NULL,650-799-3652,"Deborah Goldeen",NULL,NULL
+7583,10,"no information",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7584,2,"United Studios of Self Defense ",NULL,"1770 Miramonte Ave.","Mountain View",CA,NULL,NULL,NULL,650-960-0101,"Ben Degas",NULL,NULL
+7585,2,"Little Acorn School",NULL,"1667 Miramote Ave.","Mountain View",CA,NULL,NULL,NULL,650-964-8445,Josephina,NULL,NULL
+7586,6,"Far West Wheelchair Athletic Association)",NULL,"3369 Union Ave.","San Jose",CA,95124,NULL,NULL,408-369-6448,"Adam Elix",NULL,NULL
+7587,6,"Stanford Law School",NULL,"Palo Alto Courthouse",NULL,NULL,NULL,NULL,NULL,650-724-9581,"Sara Abarbanel",NULL,NULL
+7588,4,"Common Ground Garden",NULL,"687 Arastradero Rd.","Palo Alto",CA,NULL,NULL,NULL,646-515-8520,"Zuzanna Drozdz",NULL,NULL
+7589,1,"Resource Area for Teaching (RAFT)",NULL,"1355 Ridder Park Dr.","San Jose",CA,94131,NULL,NULL,408-451-1420,"Mary Anderson",NULL,NULL
+7590,4,"Full Circle Farm",NULL,"1055 Dunford Way",Sunnyvale,CA,94087,NULL,NULL,408-735-8154,"Melissa Patel",NULL,NULL
+7591,1,"Bharath Sevadal School",NULL,"Kumara Krupa Rd.",Bangalore,NULL,560001,Bangalore,NULL,080-2237-5802,"Lalitha H.J",NULL,NULL
+7592,5,"Tourette Syndsome Association",NULL,"615 Plymouth Way",Burlingame,CA,94010,NULL,NULL,650-344-8896,"Margaret Marig",NULL,NULL
+7593,10,"Echelon Palo Alto Gran Fondo",NULL,"250 Hamilton ","Palo Alto",CA,94301,NULL,NULL,415-730-1003,"David Cochran",NULL,NULL
+7594,4,"Elkus Ranch",NULL,"1500 Purisma Creek Rd","Half Moon Bay",CA,94019,NULL,NULL,650-712-94019,"Leslie Jensen",NULL,NULL
+7595,5,"PAlo Alto Weekly Holiday Funds",NULL,"450 Cambridge Ave.","Palo Alto",CA,94301,NULL,NULL,650-223-6588,"Rachel Palmen",NULL,NULL
+7596,10,"Palo Alto Institute",NULL,"431 Florence St. #200","Palo Alto",CA,94301,NULL,NULL,310-963-5838,"Julia Pages",NULL,NULL
+7597,10,"The Pometheus Symphony Orchestra",NULL,"P.O. Box 3335 ",Oakland,CA,94609,NULL,NULL,NULL,"Eric Hansen",NULL,NULL
+7598,1,"Lie Sieun Lin Music Studio",NULL,"21587 Rosario Ave.",Cupertino,CA,95014,NULL,NULL,408-739-8980,"Sieun Lin",NULL,NULL
+7599,10,"Ruixuan Ke",NULL,"1425 Springer Rd.","Mountain View",CA,94040,NULL,NULL,650-940-9136,"Jie Bai",NULL,NULL
+7600,10,"CCIC Mountain View Church",NULL,"920 Sierra Ave.","Mountain View",CA,94043,NULL,NULL,650-968-2900,"Daniel Chan",NULL,NULL
+7601,7,CAL-ESAR,NULL,"205 DeAnza Blvd, #30","San Mateo",CA,94402,NULL,NULL,650-340-4779,"Ken Buscho",NULL,NULL
+7602,9,"Center for Student Missions",NULL,"CSM, P.O.Box 900","Dana Point",CA,92629,NULL,NULL,949-248-8200,"Rus Kosits",NULL,NULL
+7603,10,"Next Step Ministries, Inc. (LA Impact)",NULL,"2935 S. Fish Hatchery Rd. #421",Madison,WI,53711,NULL,NULL,608-213-2650,"Arden Ratcliff",NULL,NULL
+7604,10,"Discovering Opportunities for Outreach & Reflection (DOOR)",NULL,"1760 N. Gower St.",Hollywood,CA,90028,NULL,NULL,323-872-3174,"Marissa Myers",NULL,NULL
+7605,10,"Walden West Science Center",NULL,"1555 Sanborn Road",Saratoga,CA,95070,NULL,NULL,408-573-3050,"Leigh Axelrod",NULL,NULL
+7606,4,"Guide Dogs for Blind",NULL,"2377 St Francis Dr.","Palo Alto",CA,94303,NULL,NULL,650-813-1488,"Susan Mittmann",NULL,NULL
+7607,2,"Aikido West",NULL,"3164 Bay Rd.","Redwood City",NULL,94063,NULL,NULL,650-888-9780,"Cyndy Hayashi",NULL,NULL
+7608,10,"Dragon Productions Theatre Company",NULL,"535 Alma St.","Palo Alto",NULL,94301,NULL,NULL,408-398-6238,"Jason Arias",NULL,NULL
+7609,2,"Non-profit laces Camps",NULL,"3910 Puncan Place",NULL,NULL,NULL,NULL,NULL,650-380-2821,"Arjun Parikh",NULL,NULL
+7610,10,"College Track",NULL,"1877 Bay Rd.","East Palo Alto",NULL,NULL,NULL,NULL,650-614-4875,"Sharifa Wilson",NULL,NULL
+7611,5,"East Palo Alto Police Department",NULL,"141 Demeter St.","East Palo Alto",NULL,NULL,NULL,NULL,650-853-3160,"Vickie Porter",NULL,NULL
+7612,1,"Foothill College Language Dept",NULL,"12345 El Monte Rd","Los Altos",NULL,NULL,NULL,NULL,650-949-7670,"Ikuko Rakow",NULL,NULL
+7613,10,"First Congo Church of PA",NULL,"1985 Louis Rd",PA,CA,NULL,NULL,NULL,650-856-6662,"David Howell",NULL,NULL
+7614,1,"Santa Clara Saniku Gakuin",NULL,"4250 Latimer Ave","sa n Jose",CA,NULL,NULL,NULL,408-378-8190,"Eiichi Yoshida",NULL,NULL
+7615,10,"5ive Planets ISH/US Embassy",NULL,"7-8 Nishikama",Asahiko,Tokohama,NULL,Japan,NULL,045-382-1196,"Patricia Bader-Johnston",NULL,NULL
+7616,2,"Learnika Learning Center",NULL,"572 College Ave",PA,NULL,NULL,NULL,NULL,650-248-2800,"Tony Lee",NULL,NULL
+7617,2,"Menlo Park Girls Camp",NULL,"3865 Middlefield Rd",NULL,NULL,NULL,NULL,NULL,650-207-6451,"Lisa Branson",NULL,NULL
+7618,10,"Miles for Migraines",NULL,"PO Box 20237",oakland,ca,NULL,NULL,NULL,415-524-6037,"Janet Corroo",NULL,NULL
+7619,9,"Sunnyvale Comm Services-a Place at the Table",NULL,"725 Kifer Rd",sunnyvale,CA,NULL,NULL,NULL,NULL,"Jaimie Colleen",jamiecolleen@hotmail.com,NULL
+7620,6,"Willow Oaks School",NULL,"620 Willow Rd","Menlo Park",CA,NULL,NULL,NULL,650-329-2850,"Jon Mewes",NULL,NULL
+7621,4,"Bay Area Ridge Trail Council",NULL,"1007 General Kennedy Ave St 3","San Francisco",CA,94129,NULL,NULL,415-561-2595,"Joel Gartland",NULL,NULL
+7622,4,"Trail Center",NULL,"3921 E Bayshore","PAlo Alto",CA,NULL,NULL,NULL,650-968-7065,"Justin Knowles",NULL,NULL
+7623,2,YMCA-SF,NULL,"11000 Pescadero Rd","La Honda",CA,94020,NULL,NULL,650-747-1200,"Jessi Prevost",NULL,NULL
+7624,3,"Brisgepoint Senior Living Community",NULL,"1174 Los Altos Ave","Los Altos",CA,NULL,NULL,NULL,650-948-7337,"Alex Gerasimov",NULL,NULL
+7625,8,"Day Worker Center of MV","Day Worker Center of MV","113 Escuela Ave","Mountain View",CA,94040,NULL,NULL,650-903-4102,"Arden Ratcliff",NULL,NULL
+7626,8,"Puente Resource Center","Puente Resource Center","620 North St",Pescadero,NULL,94060,NULL,NULL,650-879-1691,NULL,NULL,NULL
+7627,2,"Neighborhood Arts","Neighborhood Arts","2572 Webster St",PA,CA,NULL,NULL,NULL,650-283-9863,"Joan Bigwood",NULL,NULL
+7628,7,"Asian American Donor rogram",NULL,"2169 Harbor Bay Parkway",Alameda,CA,94502,NULL,NULL,NULL,"Ruby Law",NULL,NULL
+7629,7,"Mayview Community Health Center",NULL,"270 Grant Avenue","Palo Alto",CA,94306,NULL,NULL,NULL,"Fran Goodman",fgoodman@mayview.org,NULL
+7630,10,"Sierra Service Project",NULL,"P.O Box 992",Carmichael,CA,95609,NULL,NULL,916-488-6441,"Franklyn Shen",NULL,NULL
+7631,10,CASSY,NULL,"555 Byrant Street#126",PA,CA,NULL,NULL,NULL,650-521-5311,"Ikei Michelle",NULL,NULL
+7632,1,"not sure",NULL,"555 Byrant Street#100",PA,CA,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7633,10,"Camp Iris Way",NULL,"241 Iris Way ",PA,CA,94303,NULL,NULL,650-799-1646,"Bora Chung",NULL,NULL
+7634,10,"Summer Learninf Buddies",NULL,"764 Marion Avenue",PA,CA,NULL,NULL,NULL,650-269-6656,"Carrie Manley",NULL,NULL
+7635,4,"Friends of Palo Alto Animal Shelter",NULL,"3072 Waverley St.",PA,CA,NULL,NULL,NULL,650-714-8507,"catherine kirkman",NULL,NULL
+7636,4,"not sure-2",NULL,"#1 vista",PA,CA,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7637,10,"BLue Star",NULL,"96 Jessie Street, 3rd Flooe",SF,CA,94105,NULL,NULL,NULL,"Kerri Podlas",kp@bluestarpr.com,NULL
+7638,4,"Transparent Fish Fund",NULL,"445 South San Antonio Road, suite 204","montain view",CA,NULL,NULL,NULL,650-924-1104,"Angela Torres",NULL,NULL
+7639,10,"Royal Canadian Army Cadet",NULL,"530 Queens Avenue, New Westminster",BC,"V3L 4Z7",NULL,Canada,NULL,NULL,"Robert Chessel",NULL,NULL
+7640,10,"Burnaby Alliance Church",NULL,"8611 Armstrong Avenue, Burnaby",BC,NULL,NULL,Canada,NULL,604-524-3336,"Joan Fong",NULL,NULL
+7641,10,"Vancuvour College",NULL,"5400 Carfier Street",Vancuvour,"V6M 2A5",NULL,Canada,NULL,604-281-4285,"Jon Fagulao",NULL,NULL
+7642,1,"Santa Clara County Library",NULL,"13 South San Antonio Road","Los Altos",CA,94022,NULL,NULL,650-948-7683,"Jane Cronkhite",NULL,NULL
+7643,10,"CENTRO CRISTIANO SION",NULL,"1662 BROADWAY ST","REdwood city",CA,94063,NULL,NULL,"(650) 369-8707",NULL,NULL,NULL
+7644,1,"Quest and Learning Center",NULL,"2415 University Ave. ","E. PA",CA,94303,NULL,NULL,650-321-7712,"Darwin Eustaquio",NULL,NULL
+7645,7,"Green Meadow Marlins",NULL,"303 Parkside Drive",PA,NULL,NULL,NULL,NULL,650-494-3157,"Sigrid Pinsky",NULL,NULL
+7646,1,"St. Michael's Preschool",NULL,"401 Hudson Street","Redwood City",CA,NULL,NULL,NULL,650-690-8230,"Essam Elissa",NULL,NULL
+7647,1,"Club Academia",NULL,"33 Chester Circle","Los Altos",CA,NULL,NULL,NULL,650-305-0066,"Madhu Yariagadda",NULL,NULL
+7648,10,"Organizing for Action-Silicon Valley North",NULL,"2035 California Street, Apt 15","Mountain View ",CA,NULL,NULL,NULL,NULL,"Josh Wolf",wolf.josh.j@gmail.com,NULL
+7649,10,"PALY-community service club",NULL,"50 Embarcadero Road",NULL,NULL,NULL,NULL,NULL,,"Estner Woj",ewojcicki@pausd.org,NULL
+7650,10,"Institute on Aging",NULL,"291 Lambert Avenue","Los Altos",CA,94306,NULL,NULL,650-329-1411,"Amy Andonian",NULL,NULL
+7651,10,"PALY-Eating Disorder Awarness Club",NULL,"50 Embarcadero Road","Palo Alto",CA,NULL,NULL,NULL," "," Filppu",NULL,NULL
+7652,10,"Kennolyn Camps",NULL,"8205 Glen HAven Road",Soquel,CA,95073,NULL,NULL,831-479-6714,"Max and Marion Cladwell",NULL,NULL
+7653,2,"American Martial Arts Academy",NULL,"916 south Bascom Avenue","San Jose",CA,95125,NULL,NULL,408-799-4927,"Dustin Cloud",NULL,NULL
+7654,2,"Laces Soccer",NULL,"3910 Duncan Place","Palo Alto",CA,94306,NULL,NULL,650-815-5971,"Bhalravi Parich",NULL,NULL
+7655,10,"Camp Ramah in California",NULL,"17525 ventura Blvd.suite 201",Encino,CA,91316,NULL,NULL,310-476-8571,"Rabbi Jospeph Menashe",NULL,NULL
+7656,1,"ACME education group",NULL,"4000 Middlefiled Road Suite L1",PA,CA,94306,NULL,NULL,650-387-0545,"Wei Chen",NULL,NULL
+7657,1,"American Democracy Project",NULL,"1307 New York, Suite 500",Washington,DC,20005,NULL,NULL,202-478-4656,"Stephanie R. South",NULL,NULL
+7658,4,"US Geological Survey (USGS)","US Geological Survey (USGS)","345 Middlefield Rd","Menlo Park",CA,94025,NULL,NULL,650-329-4855,"Lourdes Gardner",NULL,NULL
+7659,1,"Madhok Foundation","Madhok Foundation","MCD Community Center, 1st Floor, Sunlight Colony - 1","New Delhi",NULL,110014,India,NULL,011-26346351,"Kurian Babu",NULL,NULL
+7660,1,"Sora Japanese School","Sora Japanese School","1485 El Camino Real",Belmont,CA,NULL,NULL,NULL,650-993-2300,"Chizuru Toyama",NULL,NULL

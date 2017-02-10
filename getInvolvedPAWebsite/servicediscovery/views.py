@@ -8,7 +8,8 @@ from django.http import HttpResponse
 from django.template import RequestContext, loader
 from django.utils import timezone
 from servicediscovery.models import Student, Service_Classification, Service, Service_Activiy
-
+from django.http import JsonResponse
+from django.views.decorators.csrf import csrf_exempt
 def get_data_for_service_class(all_objects):
     data = []
     for classification in all_objects:
@@ -46,6 +47,20 @@ def index(request):
 def log_hours_form(request):
     return render(request, "servicediscovery/log_hours.html")
 
+@csrf_exempt
+def serviceData(request):
+
+    service_class = Service_Classification.objects.get(id=int(request.GET["data"]))
+
+    objects = Service.objects.filter(service_classification=service_class)
+
+    to_return = []
+
+    for obj in objects:
+        to_return.append({"name": obj.service_name, "url": obj.url})
+
+    print to_return
+    return JsonResponse({"places": to_return})
 
 def log_hours(request):
     pass
